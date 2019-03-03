@@ -28,32 +28,32 @@
 \contentsline {section}{Across the mountains --- an unexperienced way to reach Mig}{33}{section*.30}
 \contentsline {section}{The Slov magic (2008)}{35}{section*.31}
 \contentsline {section}{WATER!}{35}{section*.32}
-\contentsline {section}{Trying to climb into M2.}{37}{section*.33}
-\contentsline {section}{Discovering Dark Tranquillity}{38}{section*.34}
+\contentsline {section}{Trying to climb into \textsc {M2}.}{37}{section*.33}
+\contentsline {section}{Discovering Dark Tranquility}{38}{section*.34}
 \contentsline {section}{Raw Logbook Writeups}{39}{section*.35}
 \contentsline {subsection}{Day 4 - Tuesday - James KP (by handwriting)}{39}{subsection*.36}
-\contentsline {subsection}{Planika (Team JJ) - Jana}{39}{subsection*.37}
-\contentsline {subsection}{M2 - Dan \& Clewin}{40}{subsection*.38}
+\contentsline {subsection}{\textsc {Planika} (Team JJ) - Jana}{39}{subsection*.37}
+\contentsline {subsection}{\textsc {M2} - Dan \& Clewin}{40}{subsection*.38}
 \contentsline {subsection}{Cpt Kangaroo: Jana, James (Huggett?), Tetley}{40}{subsection*.39}
-\contentsline {subsection}{24.7.07 Jana}{40}{subsection*.40}
+\contentsline {subsection}{24.7.07 Jana}{41}{subsection*.40}
 \contentsline {subsection}{25-07-08 - E1 - Jarv}{41}{subsection*.41}
-\contentsline {subsection}{25-7-08 Planika → EchoRift}{41}{subsection*.42}
-\contentsline {subsection}{24/7 M2 Rigging Part 2 - Clewin}{41}{subsection*.43}
-\contentsline {subsection}{26/7 Fratnik \& James: 3rd Rig of M2}{42}{subsection*.44}
-\contentsline {section}{26/7 Jarv \& Clew → Planika}{42}{section*.45}
-\contentsline {subsection}{26/7/08 - Vilinksa Jama (AKA Tetley's mysterious lead).}{42}{subsection*.46}
-\contentsline {subsection}{26.07.08 - Andy \& Jana → M16 → Plopzilla → End of NCB (Zebra)}{43}{subsection*.47}
-\contentsline {subsection}{28.07.08 Jana \& Jarv → Surface Work}{43}{subsection*.48}
+\contentsline {subsection}{25-7-08 \textsc {Planika} → EchoRift}{41}{subsection*.42}
+\contentsline {subsection}{24/7 \textsc {M2} Rigging Part 2 - Clewin}{42}{subsection*.43}
+\contentsline {subsection}{26/7 Fratnik \& James: 3rd Rig of \textsc {M2}}{42}{subsection*.44}
+\contentsline {section}{26/7 Jarv \& Clew → \textsc {Planika}}{42}{section*.45}
+\contentsline {subsection}{26/7/08 - Vilinksa Jama (AKA Tetley's mysterious lead).}{43}{subsection*.46}
+\contentsline {subsection}{26.07.08 - Andy \& Jana → M16 → \textsc {Plopzilla} → End of \textsc {NCB} (Zebra)}{43}{subsection*.47}
+\contentsline {subsection}{28.07.08 Jana \& Jarv → Surface Work}{44}{subsection*.48}
 \contentsline {subsection}{30-07-08 Jana, Andy, Janet → Surface Work}{44}{subsection*.49}
 \contentsline {subsection}{29.7.08 - Intravenus de Milo - a diatribe - Clewin}{44}{subsection*.50}
-\contentsline {subsection}{30/31-7-08 Kill 'em All, Jarv, Izi, Paul, James}{45}{subsection*.51}
-\contentsline {subsection}{29-7-08 Planika - hard \textsuperscript {echo} rift push}{45}{subsection*.52}
-\contentsline {section}{Plopzilla - Photo Trip Writeup - Jarv}{46}{section*.53}
-\contentsline {section}{Dangermouse - Izi, Paul, Jarv - by Jarv}{46}{section*.54}
+\contentsline {subsection}{30/31-7-08 Kill'em All, Jarv, Izi, Paul, James}{45}{subsection*.51}
+\contentsline {subsection}{29-7-08 \textsc {Planika} - hard \textsuperscript {echo} rift push}{46}{subsection*.52}
+\contentsline {section}{\textsc {Plopzilla} - Photo Trip Writeup - Jarv}{46}{section*.53}
+\contentsline {section}{\textsc {Dangermouse} - Izi, Paul, Jarv - by Jarv}{47}{section*.54}
 \contentsline {section}{Slop Kaboom}{47}{section*.55}
-\contentsline {section}{Dangermouse Continued - Martin, Tim, Paul, Jarv - 9th Aug - by Martin}{47}{section*.56}
+\contentsline {section}{\textsc {Dangermouse} Continued - Martin, Tim, Paul, Jarv - 9th Aug - by Martin}{48}{section*.56}
 \contentsline {section}{Scrotty Bashing - Martin, Paul, Tim}{48}{section*.57}
-\contentsline {subsection}{Olympic Rift - Jarv \& Tim - by Jarv - 12-8-08}{49}{subsection*.58}
+\contentsline {subsection}{\textsc {Olympic Rift} - Jarv \& Tim - by Jarv - 12-8-08}{49}{subsection*.58}
 \contentsline {chapter}{2009 --- Brezzvezdna Noč:}{51}{chapter*.59}
 \contentsline {section}{Summary}{51}{section*.60}
 \contentsline {section}{Expedition Proceedings}{51}{section*.61}
