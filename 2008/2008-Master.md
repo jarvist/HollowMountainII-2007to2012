@@ -29,7 +29,7 @@ In particular there were three tight sections of rift in the '*Mudslump*' extens
 As such, the first few trips down to this area of the cave consisted of two parties - an advanced one pushing the bottom end while the other progressed slowly 'improving' (in many cases instigating...) the SRT rigging. 
 For one notable pitch, "*Kill'em All*" which had been rigged for no apparent reason without a traverse line, the advanced party beckoned the clean-up group down to rig the pitch safely before they would ascend!
 
-This after a section of acrobatic rift below *Kill'em All* (p22), *Dark Tranquility* (p44) was discovered. 
+This after a section of acrobatic rift below *Kill'em All* (p22), *Dark Tranquillity* (p44) was discovered. 
 The leads were very much ongoing - another pitch, and many windows. 
 There were also entering avens. 
 However, on inputing the survey data (we have a solar-powered laptop running Survex in our mountain top bivy), we discovered that we had dropped well below the bottom of *M2* and therefore our current connection possibilities.
@@ -48,7 +48,7 @@ There was clearly something big and echoing below, but the pitch head was initia
 The rotten nature of the rock was a concern when placing the belays, and gained this section of cave the name '*Cheesecake*'. 
 A short 10 meter pitch dropped onto an epic rock bridge in a large chamber, with shafts disappearing down (perhaps combining below) on either side with multiple second free falls. 
 A notable rift led off South (towards *M2*) from the far side of the chamber, but required a bolt traverse out to it. 
-By survey, this rock bridge is 21 meters directly above *Dark Tranquility* (p44), so it is likely that at least one of the pitches connects.
+By survey, this rock bridge is 21 meters directly above *Dark Tranquillity* (p44), so it is likely that at least one of the pitches connects.
 
 Due to a shortage of gear, a trip was made down the '*Olympic Rift*' arm of *Captain Kangaroo* to recover equipment and scavenge rope from the (left rigged since 2007) pitches. 
 The exploration end was a tight rift leading to a very large space, most likely a reconnection to the Space Odyssey / Concorde pitch in the main *Vrtnarija* shaft series. 
@@ -61,7 +61,7 @@ As the explorers at the time commented "Well, at least its 800 m deep now!".
 This Vilinska Jama entrance demonstrates the worth of spending time and effort on surface excavations, as well as pointing to the plausibility of checking all the small side passages in established systems.
 
 Above the *Vrtnarija*/*Vilinska* valley is a limestone pavement that extends from beyond the entrance to *M2*. 
-Here a surface cave, *E1*, was discovered in 2007 with a ~20 m entrance pitch. 
+Here a surface cave, *E1*, was discovered in 2007 with a \textasciitilde20 m entrance pitch. 
 During 2008 some stones were excavated to an extremely tight (sub human) sized pitch head blowing strongly. 
 This will require chemical persuasion to pass, but due to the (now surface surveyed) location, is a cave of some interest for 2009. 
 Strangely for a surface cave it has some well defined cave formation (large meander), which appears to have been saved from infill by an overhanging entrance and position next to the edge of the plateau.
@@ -270,7 +270,7 @@ No way on.
 But another crap inducing climb, and another step to make me less Keen!
 
 The highlight of that years caving for me was actually a trip in the bottom of *Captain Kangaroo* with Izi. 
-On that trip we discovered *Dark Tranquility*. 
+On that trip we discovered *Dark Tranquillity*. 
 It was the first proper pitch I pushed and the buzz was incredible. 
 I remember sitting at the top discussing with Izi how it would rigged. 
 I was apprehensive of screwing up, but he made it clear he trusted me.
@@ -286,13 +286,13 @@ But it would take a few more brocken drill carries to make me wizen up electrica
 
 \attrib{James Kirkpatrick}
 
-## Discovering Dark Tranquility
+## Discovering Dark Tranquillity
 
 Year was quickly around and I was back on Mig with unfinished business at the bottom of “*Kill'em All*”. There was no Rick on Mig this year, so I teamed up with James KP. A plan was created and soon we were on the way. As traditionally, I smoked one before entering *Vrtnarija*. 
 
 Here we go again, couple of pitches, few squeezes and we are on top of Pico. Before entering *Captain Kangaroo* it was time for a second cigarette. This year the squeezes were much easier, as I knew the tricks on how to handle the awkward squeezes. Quite quickly we were on top of “*Kill'em All*” and reached the bottom with no problems. 
 
-At the bottom we started checking out the leads and soon one was dead. Only one was the way on. After through a small meander we ended up on top of a big pitch. Only one bolt was needed, as there was a really nice natural. James went down first and after about 20 m he reached a ledge. I followed down and we realised pitch goes on. We had to put in another bolt as the rope would rub against the ledge. James started bolting and I had time to look round as the ledge was relatively big. We noticed windows on the side and naturally thought that this could be the way to *M2*. We did not have any climbing equipments, so we had to continue down. Soon we arrived to another pitch. We did not have any more rope, so we had to return back. While surveying we noticed how beautiful the pitch was. We named it *Dark Tranquility*. 
+At the bottom we started checking out the leads and soon one was dead. Only one was the way on. After through a small meander we ended up on top of a big pitch. Only one bolt was needed, as there was a really nice natural. James went down first and after about 20 m he reached a ledge. I followed down and we realised pitch goes on. We had to put in another bolt as the rope would rub against the ledge. James started bolting and I had time to look round as the ledge was relatively big. We noticed windows on the side and naturally thought that this could be the way to *M2*. We did not have any climbing equipments, so we had to continue down. Soon we arrived to another pitch. We did not have any more rope, so we had to return back. While surveying we noticed how beautiful the pitch was. We named it *Dark Tranquillity*. 
 
 Once in the bivy, we were given a well deserved dinner and Jarv was already on the mission to enter the data. The bottom of Dark Tranquillity goes towards lower parts of *Vrtnarija* – towards *Friendship Gallery* and it is already to low to connect to *M2*. 
 
@@ -402,7 +402,7 @@ Dig dig dig...
 6 m long, \textasciitilde 60°  scree slope, terminating in pitch (6-8 m, as judged by rattling stones).
 
 First few armfuls of rock were stacked, until we started chucking scree over the edge, boom boom boom
-Tidied back to bedrock --- too tight --- damn! Strange pitchead, almost T-shaped: water slopping over the edge, but also a notch cut down (~10cm wide).
+Tidied back to bedrock --- too tight --- damn! Strange pitchead, almost T-shaped: water slopping over the edge, but also a notch cut down (\textasciitilde10cm wide).
 
 E1: We surface surveyed and tied the centrline to *M2* entrance. The end of the cave is 40 m above the end of *Goodybag*, *M16*
 We will need a better name before it gets too big → 'Mountain Goat Cave'? Sounds good in Slovene, says Jana.
@@ -419,7 +419,7 @@ Pushed to tight chest-wide rift; ice everywhere.
 Tight rift meandered to pitchhead. 
 Located natural hang while Jana fetched survey kit & rope. 
 1 dodgy thread & down. 
-Long sling to stretch out rope (~8 m). 
+Long sling to stretch out rope (\textasciitilde8 m). 
 This proved troublesome on the way up. 
 Dropped onto ice-floored chamber with semi-tight rift off it. 
 1.5 m diam hole to small chamber 4 m below. 
@@ -470,7 +470,7 @@ Clew expanded the pre-pitch squeeze while Jarv rerigged & then attempted the hig
 
 Rift: Phreatic top slightly less than body crawl sized tube, less than chest width vadose. 
 But transition zone is very friable. 
-I got ~3 m in, to see 2 m rift → chamber. 
+I got \textasciitilde3 m in, to see 2 m rift → chamber. 
 Drafting _IN_. 
 Chamber has fist sized boulders in it. 
 Turns right.
@@ -502,7 +502,7 @@ Water was dripping from a crack in the ceiling, and the rift continued ahead.
 Bozo forged ahead, quickly finding another chamber, filled with a vast two way boulder slope. 
 Up and over choked quickly. 
 Down and under was precarious in the extreme, but Tetley's careful proress under the hanging death and down a short climb yielded the next pitch. 
-A ~20 m drop into a large fault controlled chamber. 
+A \textasciitilde20 m drop into a large fault controlled chamber. 
 With no SRT kit or rope we made our exit, pausing briefly to discuss potential names. 
 We settled on Vilinksa Jama (Veela cave) and returned to the Bivi for Tea & Medals.
 \attrib{DanG}
@@ -519,7 +519,7 @@ We check out *Plopzilla*, but have not taken the rope out.
 
 Checked the end of *NCB. 
 In Zebra, 2 ways on:
-* A small climb down (~6 m) need to be smashed, remove boulders
+* A small climb down (\textasciitilde6 m) need to be smashed, remove boulders
 * Small, tight crawl cont. 
 up Zebra
 
@@ -528,39 +528,33 @@ Amazing trip!
 \attrib{Jana}
 
 ### 28.07.08  Jana & Jarv → Surface Work
-1) Went back to Valley 8 (next one to B9), you can see loads of cave entrances. 
+1. Went back to Valley 8 (next one to B9), you can see loads of cave entrances. 
 Check out. 
 But only one goes. 
 You climb down under the boulder choke, turn right down to a small chamber. 
 From here there are at least 2 ways on. 
-They both need stones removed. 
-All to be done very gently and carefully since so many boulders hang on top. 
-Looking good to go.
-
-2) Behind M19 have noticed a small cave entrance. 
+They both require the removal of boulders.
+All to be done very gently and carefully since so many blocks hang on top, but otherwise looking good to go.
+2. Behind M19 have noticed a small cave entrance. 
 A slope down to a chamber visible. 
 Did not go down, since at that time I was alone. 
 Put a cairn to mark an entrance.
-
-3) East of M19 possibly next to M15? There is a big entrance. 
+3. East of *M19* possibly next to *M15* There is a big entrance. 
 We climbed down and digged (a bit) 3 possible routes on. 
-Quite drafty. 
+Quite draughty. 
 On to the bottom way on(?) we noticed that someone might have used a hammer. 
-You can feel a lot of cold draft. 
+You can feel a lot of cold draught. 
 Digging, smashing, needed but it does look very good to go!
-[ JCC GPS Waypoint 1851 m N46.25311 E013.7610 ]
-
-4) Loads of big (deep) entrances just behind the bivi. 
+\sidenote{JCC GPS Waypoint 1851 m N46.25311 E013.7610}
+4. Loads of big (deep) entrances just behind the Bivi. 
 Almost of them have snow at the bottom. 
 Rope needed to explore!
-
-5) Re-discover the Royston Vasey (we believe?) re located. 
-Look at Hollow Mountain page 147.
-
-6) Re-discover, located a cave entrance with a red spot in front. 
+5. Re-discover the Royston Vasey (we believe?) re-located. 
+\sidenote{Look at Hollow Mountain page 147}
+6. Re-discover, located a cave entrance with a red spot in front. 
 It starts with a narrow pitch down. 
 Next to red spot it is an old bolt as well. 
-It is just further on on the right up from Royston Vasey, looking towards kuk. 
+It is just further on on the right up from *Royston Vasey*, looking towards kuk. 
 Worth going back down again. 
 [We believe this is Dave Wilson's 1996 Dig]
 
@@ -609,26 +603,28 @@ No one bit of cave was truly awful, but the combined effect of 3 solid hours of 
 Having grit in my wetsocks grinding away at my toes didn't improve the experience. 
 Still, got out with 2 mins to go before our callout.
 
-Back in the Bivvy, superb slop and trifle for desert was really appreciated. 
-Shockingly, despite my recounting tales of squallor, 4 people were eager to go down the next day. 
+Back in the Bivvy, superb slop and trifle for dessert was really appreciated. 
+Shockingly, despite my recounting tales of squalor, four people were eager to go down the next day. 
 Such is the lure of exploration I guess.
 
 \attrib{Clewin}
 
 ### 30/31-7-08 Kill'em All, Jarv, Izi, Paul, James
 
-The problem wasn't so much the rigging was bad, as that there was no rigging at all. 
-       Jarv
+\begin{quote}The problem wasn't so much the rigging was bad, as that there was no rigging at all.
+\end{quote}
+
+\attrib{Jarv}
 
 (Large multi coloured Grade I of *Mudslump* - *Kill'em All*)
 
-James K's first grade 1 survey: Dark Tranquillity
+James Kirkpatrick's first grade 1 survey: *Dark Tranquillity*
 Many curious avens on pitch.
 
-Followed on from IV de Milo development. 
+Followed on from *Intravenus de Milo* development. 
        James KP
 
-### 29-7-08 *Planika* - hard ^echo^ rift push
+### 29-7-08 *Planika* - hard "echo" rift push
 
 Jarv, Paul, Jana (written by Jarv)
 
@@ -651,21 +647,20 @@ BUT, off to the left is a strongly blowing chamber through tight, but hammerable
 
 Andy's last trip; so it had to be *Plopzilla*.
 
-Set off with a Daren drum of gear, Paul in the lead & with Andy bringing up the rear
+Set off with a Daren drum of gear, with Paul in the lead and Andy bringing up the rear
 (Ooh-err!)
-Took a few firefly digi shots coming up into hotline. 
-Seems to be lots off the lower M16 ent. 
-pitches - Lost City & etc. 
-?
-More photos on the newly SEXY gladiator's rigging, then shot off up Faulty Towers. 
+Took a few firefly digital shots coming up into *Hotline*. 
+Seems to be lots off the lower *M16* entrance series, such as pitches into *Lost City*, etc. 
+
+More photos on the newly sexy gladiator's rigging, then shot off up *Fawlty Towers*. 
 Popped into *NCB*; Andy conned us into pissing down *Silos*:- "Don't piss in the main passage, climb down there but no further than the first bolt!"
 
 Rerigged traverse in *NCB* (more photos!), then to the main game: *Plopzilla*.
 We had a plan, I asbeiled down with gear & scrambled up a slope. 
-Pitch head was 'interesting' [clip in cows, push through squeeze & swing out above 105 m hoping cows were still in].
+Pitch head was 'interesting' (clip in cows, push through squeeze and swing out above the 105 m drop hoping cows were still in).
 Rebelays were 'interesting' [so tight, one had to climb above belay to derig descender].
 Knot change 'exciting' [knot a 'Rik Special', 9 mm below super slippery]
-Gear down there 'intriguing' [explains where all the rope went -- 90 m 11 mm, 90 m 9 mm & 1 tacklesac ]
+Gear down there 'intriguing' \sidenote{this explains where all the rope went -- 90 m 11 mm, 90 m 9 mm & 1 tacklesac}
 
 We tried our best on 2 attempts at filming exploration, a few digital pictures, and then dived into the Boulder choke. 
 Went down -30 m or so, drips, went through a lot of very loose Boulders then into bigger stones, but with solid wall, lots of Boulders. 
@@ -675,15 +670,14 @@ Got as far as a loose committing climb into a large-ish chamber.
 
 It goes, it really does. 
 But I'm not going there. 
-Stones rattled ~4s.
+Stones rattled \textasciitilde 4 seconds.
 
-Climbed ridge to corner & found another entry to choke.
+Climbed ridge to corner and found another entry to choke.
 
 So we left & derigged. 
 Rope → Club Mig.
 Sped out once, gear stashed. 
-2hrs from bot. 
-Fawlty Towers.
+2hrs from bottom to *Fawlty Towers*.
 
 \attrib{Jarvist Frost}
 
@@ -697,13 +691,13 @@ Wherever there is danger he'll be there!
 
 With a load of food & bolts, we shot down to Something Fishy & dived down the right crawl. 
 Drafting, with deep sand floor (all spoiled!). 
-Became rather tight after ~7 m.
+Became rather tight after \textasciitilde7 m.
 
 So we hit the pitch, belay off jammed boulder, soon with a bolt.
 
 Paul & Izi set off to grab the 2nd bolt kit. 
 Hopped down 2nd pitch (6 m) and came to something seemingly identical. 
-Rigged off obvious natural & dropped down to choosy shelf ~8 m. 
+Rigged off obvious natural & dropped down to choosy shelf \textasciitilde8 m. 
 Then I turned around. 
 Small pitch it was not. 
 Boulders banged for 6s+.
@@ -714,10 +708,10 @@ From -25 m (limit), one could peer down past cascades into...
 blackness. 
 Big chamber?
 
-Left ~50 m of 10 mm at last bolt, PSS on sticking-out ledge + bolt kit. 
+Left \textasciitilde50 m of 10 mm at last bolt, PSS on sticking-out ledge + bolt kit. 
 & 2nd bolt kit at head of Something Fishy.
 
-Early exit ~1AM.
+Early exit \textasciitilde1AM.
 
 We blew trumpets every hour & listened every x 30 minutes - nothing from the *M2* crew.
 
@@ -737,6 +731,7 @@ We blew trumpets every hour & listened every x 30 minutes - nothing from the *M2
 6. Slop is instantly served in the Bivi - dinner can be got from all the surfaces - tarps, rocks and the chef.
 
 Safety Advice:
+
 * Listen to Janet's comment from last year log book
 * Lost the weight from the cooker
 * Do NOT try this at home / bivvy

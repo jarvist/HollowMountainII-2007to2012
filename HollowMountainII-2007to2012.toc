@@ -47,7 +47,7 @@
 \contentsline {subsection}{30-07-08 Jana, Andy, Janet → Surface Work}{44}{subsection*.49}
 \contentsline {subsection}{29.7.08 - Intravenus de Milo - a diatribe - Clewin}{44}{subsection*.50}
 \contentsline {subsection}{30/31-7-08 Kill'em All, Jarv, Izi, Paul, James}{45}{subsection*.51}
-\contentsline {subsection}{29-7-08 \textsc {Planika} - hard \textsuperscript {echo} rift push}{46}{subsection*.52}
+\contentsline {subsection}{29-7-08 \textsc {Planika} - hard ``echo'' rift push}{46}{subsection*.52}
 \contentsline {section}{\textsc {Plopzilla} - Photo Trip Writeup - Jarv}{46}{section*.53}
 \contentsline {section}{\textsc {Dangermouse} - Izi, Paul, Jarv - by Jarv}{47}{section*.54}
 \contentsline {section}{Slop Kaboom}{47}{section*.55}
