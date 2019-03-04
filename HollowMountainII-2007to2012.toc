@@ -85,25 +85,25 @@
 \contentsline {subsection}{Prince Consort Road}{70}{subsection*.87}
 \contentsline {subsection}{The Palace of King Minos}{71}{subsection*.88}
 \contentsline {section}{Tolminska Korita}{71}{section*.89}
-\contentsline {subsection}{Sidewinder, Crack in Time}{72}{subsection*.90}
-\contentsline {subsection}{White Bishop, Stalemate}{72}{subsection*.91}
-\contentsline {section}{Roaring Floor Tease (Muddy Window off Happy Monday)}{72}{section*.92}
+\contentsline {subsection}{\textsc {Sidewinder}, \textsc {Crack in Time}}{72}{subsection*.90}
+\contentsline {subsection}{\textsc {White Bishop}, \textsc {Stalemate}}{72}{subsection*.91}
+\contentsline {section}{\textsc {Roaring} Floor Tease (\textsc {Muddy Window} off \textsc {Happy Monday})}{72}{section*.92}
 \contentsline {section}{Deep Leads (Below \textsc {Big Rock Candy Mountain})}{72}{section*.93}
-\contentsline {subsection}{Insomnia - Republika Streamway}{72}{subsection*.94}
+\contentsline {subsection}{\textsc {Insomnia} - \textsc {Republika} Streamway}{72}{subsection*.94}
 \contentsline {section}{Original Exploration Stories}{73}{section*.95}
-\contentsline {section}{Rerigging Vrtnarija}{73}{section*.96}
+\contentsline {section}{Rerigging \textsc {Vrtnarija}}{73}{section*.96}
 \contentsline {subsection}{The discovery of Wonderland}{74}{subsection*.97}
-\contentsline {section}{Pushing Insomnia}{76}{section*.98}
+\contentsline {section}{Pushing \textsc {Insomnia}}{76}{section*.98}
 \contentsline {section}{More Horror with Jan.}{77}{section*.99}
 \contentsline {subsection}{Happy days with Jan.}{77}{subsection*.100}
-\contentsline {section}{Balamory}{77}{section*.101}
+\contentsline {section}{\textsc {Balamory}}{77}{section*.101}
 \contentsline {section}{Palace of king Minos, Queen Bed chamber, Minotaur rift and Ouroboros}{80}{section*.102}
 \contentsline {section}{Hidden surprises}{81}{section*.103}
 \contentsline {section}{Discovering Povodni Mož}{82}{section*.104}
-\contentsline {section}{M2 --- Kavkna Jama}{83}{section*.105}
+\contentsline {section}{\textsc {M2} --- \textsc {Kavkna Jama}}{83}{section*.105}
 \contentsline {section}{Exploration Outlook}{83}{section*.106}
 \contentsline {section}{Migovec's Long Term Prospects}{83}{section*.107}
-\contentsline {section}{Found in `AggregateofMig2007-2010.doc' : Jarv Typed up?}{84}{section*.108}
+\contentsline {section}{Underground Logbook}{84}{section*.108}
 \contentsline {chapter}{2011 --- Izgubljeni Raj}{87}{chapter*.109}
 \contentsline {subsection}{Introduction}{87}{subsection*.110}
 \contentsline {section}{Cave Discoveries}{88}{section*.111}
