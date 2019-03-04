@@ -660,7 +660,7 @@ We had a plan, I asbeiled down with gear & scrambled up a slope.
 Pitch head was 'interesting' (clip in cows, push through squeeze and swing out above the 105 m drop hoping cows were still in).
 Rebelays were 'interesting' [so tight, one had to climb above belay to derig descender].
 Knot change 'exciting' [knot a 'Rik Special', 9 mm below super slippery]
-Gear down there 'intriguing' \sidenote{this explains where all the rope went -- 90 m 11 mm, 90 m 9 mm & 1 tacklesac}
+Gear down there 'intriguing' \sidenote{this explains where all the rope went, 90 m 11 mm, 90 m 9 mm and 1 tacklesac}
 
 We tried our best on 2 attempts at filming exploration, a few digital pictures, and then dived into the Boulder choke. 
 Went down -30 m or so, drips, went through a lot of very loose Boulders then into bigger stones, but with solid wall, lots of Boulders. 

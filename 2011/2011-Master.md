@@ -38,7 +38,7 @@ Our major cave finds this year can be considered in three separate developments 
 ### The *Serpentine* & *Let na Drugi Svet*
 
 An active streamway, named the *Serpentine*, led off from a large chamber (The *Albert Hall*) discovered along *Prince Consort Road*. 
-During 2010, this was pushed to -621 m (*It Will Rain* for a Million Years). 
+During 2010, this was pushed to -621 m (*It Will Rain for a Million Years*). 
 Exploration in 2011 continued along this active meander.
 
 The initial exploration (Round Pond) descended a 2 m climb down leading to an oxbow and 4 m pitch. 
@@ -133,7 +133,7 @@ Midway along *Penitence* a boulder choke is passed, with a collection of approxi
 The first branch of passage ends at a sandy dig with no draught; the other is (what appears to be) an easily passable squeeze, at the end of an ascending passage, with a howling draught. 
 One can hear a considerable roaring at the squeeze which is possibly water.
 Exploration was halted at an open lead by lack of time, after 349 m of passage from the bottom of *Stuck in Paradise*.
-From the start of the Serenade climb, development to the current end of *Penitence* is almost perfectly South-East in direction and 500 m in plan length.
+From the start of the *Serenade* climb, development to the current end of *Penitence* is almost perfectly South-East in direction and 500 m in plan length.
 
 
 Until the discoveries this year, *Vrtnarija* almost exclusively resided in a band of rock less than 200 m wide and inclined at 70 degrees. 
@@ -193,13 +193,13 @@ Due to the sensitive location of Migovec in the Triglav national park and as the
 As such, putting together a scheme of work & organising permission may require a considerable amount of time.
 
 
-## October M2 / *Kavkna Jama*
+## October *M2* / *Kavkna Jama*
 
 
-A weekend trip with the JSPDT in October to M2/*Kavkna Jama* brought back 245 m of survey data from discoveries over 2009-2011, adding 100 m of depth to M2 and bringing the closest approach between *Vrtnarija* and *Kavkna Jama* to 4 m (with a +- 30 m estimated error of the 1.4 km unclosed loop). 
+A weekend trip with the JSPDT in October to *M2*/*Kavkna Jama* brought back 245 m of survey data from discoveries over 2009-2011, adding 100 m of depth to *M2* and bringing the closest approach between *Vrtnarija* and *Kavkna Jama* to 4 m (with a +- 30 m estimated error of the 1.4 km unclosed loop). 
 The lead ends at an easily dug mud floored bedding plane, leading off into a tight rift, with an extremely strong draught. 
 The trend of the cave passage is Northerly, towards the Captain Kangaroo area of *Vrtnarija*. 
-Even if M2 misses the closest point, Dark Tranquillity, it is hoped that it will intersect another of the Captain Kangaroo shaft series at this depth (Olympic Rift, Dangermouse).
+Even if *M2* misses the closest point, Dark Tranquillity, it is hoped that it will intersect another of the Captain Kangaroo shaft series at this depth (*Olympic Rift*, *Dangermouse*).
 
 
 ## Contributed Stories
@@ -253,7 +253,7 @@ Was I overreaching myself by going down to camp on my first trip? I trusted myse
 
 
 Jarv went ahead to rig while the rest of us followed, each encumbered by at least two bulky tacklesacks, stuffed with sleeping bags and assorted camping equipment. 
-We met Tetley and Jonny in the Urinal series, on their way out from Tetley’s traditional Mig fresher initiation to Pico/Swing/Tessellator.
+We met Tetley and Jonny in the *Urinal* series, on their way out from Tetley’s traditional Mig fresher initiation to *Pico*/*Swing*/*Tessellator*.
 
 
 We made steady progress towards camp, chatting while waiting for Jarv to rig, with Myles telling me about the pitches and where to look out for loose rock. 
@@ -272,7 +272,7 @@ Less glamorous perhaps was having to piss into the same resealable bag as Myles 
 The next morning after a brew Jan and Jarv decided to have a cheeky push in *Serpentine* before heading out, while I was to familiarise myself with the cave with Myles. 
 We pottered about *Albert Hall* and its various branches before finally heading down *Serpentine* to say hello to Jan and Jarv. 
 We turned around at the bottom of *It Will Rain*, the 600 m of ascent on our minds. 
-At this point Myles said to keep going until Fistful of Tolars as he’d be right behind me. 
+At this point Myles said to keep going until *Fistful of Tolars* as he’d be right behind me. 
 I headed out.
 
 
@@ -305,30 +305,29 @@ At the bottom of the first chamber, we reached a rock bridge. Left or right? We 
 
 \attrib{Gergely Ambrus}
 
-### How to loose miles
+### How Miles of passage were lost!
 
 So, there was *Stuck in Paradise*, left at the middle, and however hard we tried to advertise it with Jana, nobody seemed to be quite keen to go there and reach the kilometres of horizontal passages at the bottom. Since it has been another example of truly Eastern European cooperation, we decided to give it a go with Izi. I am always ashamed when caving with him: he perfects minimalism, while I always tend to pack too much of everything. This was not different this time either, and he looked amazed, and in disbelief, at the amount of food I had prepared for taking underground. So I discarded half of it, making sure that the smoked meat, bacon and onion was making its way down to underground camp – it is so lovely to have a nice soup at camp full of meat and fresh onion!
 
-On our first day, we went to climb in Queen’s Bedchamber, starting a long-term project. Then, the second day came our big task – to continue *Stuck in Paradise*. 
+On our first day, we went to climb in *Queen’s Bed Chamber*, starting a long-term project. Then, the second day came our big task – to continue *Stuck in Paradise*. 
 
 We packed two batteries for the drill, plenty of rope, also a good amount of food, so once again, we felt like being mules when reaching the southern end of the cave. Nevertheless, we made good progress, and soon I was on the rope again, continuing the rigging. 
 
 There was no surprise: mud and mud, but this time even spiced up with a number of falling rocks. Hmm, what a nice combination! I tried to lead the rope out of the fall-zone with more or less success. Meanwhile, poor Izi was getting very cold at the rock bridge. Finally, the battery died, so at last he had a chance to move. We joined our efforts to finish the bolting, at the bottom of the pitch there was yet one more little drop to do. Finally, we cut the rope, and started to see what lay in front of us – a horizontal phreatic gallery!
 
-So, we started to proceed, with Izi’s goal: to break the record of the longest new passage in one day! Luckily, the cave seemed to be up to the challenge: the tube went and went and went. We noted a passage on the left, but continued first with the obvious gallery ahead. We found some nice crystal-covered part, but apart from that, it was clear that nothing serious happened to this ancient, old cave. It was in the same pristine condition, as when the water left it, God knows when. It really felt to be the most ancient part of the cave to me, very deep and far from the entrance, completely untouched for millennia. So we went and went, finally reaching a boulder choke. It cannot finish here! The only tool we had with us was a bolting hammer, but nevertheless, we started to work on it. At the beginning, it seemed completely blocked, but then little by little, we gained more and more space between the boulders. It was a nice puzzle, try to see where we might break through. Finally, we were almost at the other side! However, the last rocks proved to be too big for our bolting hammer, and we had to give up the work, knowing that with a chisel it would take maybe half an hour to brake trough (which indeed proved to be the case the next year). So, we started to survey back – we really liked to test the range of the Disto ☺ Then, when reaching the junction, we had a look in the other passage. There was a lot of draught here! Unfortunately, this proved to be much smaller than the first tube, and the floor was filled with super uncomfortable little stones. But, it contained the first real stalactites that I saw at Mig!! We decided to named it Knee-killer, and the first passage East links (because we thought it was mainly going to east, rather then south). Looking back at the names, it is obvious that we were not at the height of our mental abilities! It has been a long trip, maybe we were at the 16th our then. 
+So, we started to proceed, with Izi’s goal: to break the record of the longest new passage in one day! Luckily, the cave seemed to be up to the challenge: the tube went and went and went. We noted a passage on the left, but continued first with the obvious gallery ahead. We found some nice crystal-covered part, but apart from that, it was clear that nothing serious happened to this ancient, old cave. It was in the same pristine condition, as when the water left it, God knows when. It really felt to be the most ancient part of the cave to me, very deep and far from the entrance, completely untouched for millennia. So we went and went, finally reaching a boulder choke. It cannot finish here! The only tool we had with us was a bolting hammer, but nevertheless, we started to work on it. At the beginning, it seemed completely blocked, but then little by little, we gained more and more space between the boulders. It was a nice puzzle, try to see where we might break through. Finally, we were almost at the other side! However, the last rocks proved to be too big for our bolting hammer, and we had to give up the work, knowing that with a chisel it would take maybe half an hour to brake trough (which indeed proved to be the case the next year). So, we started to survey back – we really liked to test the range of the Disto ☺ Then, when reaching the junction, we had a look in the other passage. There was a lot of draught here! Unfortunately, this proved to be much smaller than the first tube, and the floor was filled with super uncomfortable little stones. But, it contained the first real stalactites that I saw at Mig!! We decided to named it *Knee-killer*, and the first passage *East Links* (because we thought it was mainly going to east, rather then south). Looking back at the names, it is obvious that we were not at the height of our mental abilities! It has been a long trip, maybe we were at the 16$^{th}$ our then. 
 
 So, we were glad to find so much, but now we had to get back to camp! It took ages prussiking up in *Stuck in Paradise* for the first time, really a nightmare. And after, numerous little squeezes, ropes, traverses, to be topped by the ever fine experience of *Cheetah* – so, we were really exhausted when reaching the camp. 
 
-There was Tetley and Clare, and we started to tell him the news of another Great Discovery! Our 40-m survey legs, the going leads, the big pit… all the great story! So, it was time to count the number of meters we found that day – Tetley asked to see the survey book of course. “You have it Izi”- I said. “No, it is in your pocket” – came the answer. “Maybe it is in the Daren drum?” – “Or with the bolting kit?” –“Or…” – “Oh, F*ck!” –“Oh, SH*te!”… Yes, indeed, it is true. We left it there. We could only hope that it was at the top of the pit, where we had a ciggy break, and not at the bottom. 
+There was Tetley and Clare, and we started to tell him the news of another Great Discovery! Our 40 m survey legs, the going leads, the big pit… all the great story! So, it was time to count the number of meters we found that day – Tetley asked to see the survey book of course. “You have it Izi”- I said. “No, it is in your pocket” – came the answer. “Maybe it is in the Daren drum?” – “Or with the bolting kit?” –“Or…” – “Oh, F\*ck!” –“Oh, SH\*te!”… Yes, indeed, it is true. We left it there. We could only hope that it was at the top of the pit, where we had a ciggy break, and not at the bottom. 
 
 So, the next morning, we had to go back, completely broken, again to that marvelous place. Luckily, we found the survey book waiting for us on the rock at the top of Stuck in P. Good lord! So, we found our *lost Miles* again. And, right away, we also decided to replace our crappy names by *Lost Miles*, and *Penitence*!
 
-Did we manage to brake the record? I don’t quite know… But it is not important at all. We found a lot of passage (about 600 m), and the mountain once again opened up a completely new part of the system. A part, that later proved to be very interesting, fascinating, and scary…
+Did we manage to break the record? I don’t quite know… But it is not important at all. We found a lot of passage (about 600 m), and the mountain once again opened up a completely new part of the system. A part, that later proved to be very interesting, fascinating, and scary…
 
 \attrib{Gergely Ambrus}
 
 ### Dream 2 and Penguins Egg
-
 
 Morning. 
 The weather was glorious: the sun was shining, and the sky more blue than white—both rarities on this expedition. 
@@ -339,7 +338,7 @@ Soon my need for my morning cup of tea became too great to ignore and I ambled t
 This early in the morning, the bivi was still relatively quiet as the masses snoozed in their tents, though Tetley and Dan already had the volcano kettle going—perfect.
 
 
-Brew in hand, I settled myself onto a ‘McGowan’ (sofas made of dwarf pine needles wrapped in tarp material) as talk naturally turned to people’s plans for the day.
+Brew in hand, I settled myself onto a ‘McGowan’ \sidenote{sofas made of dwarf pine needles wrapped in tarp material} as talk naturally turned to people’s plans for the day.
 
 
 “Samo’s in a pretty bad shape, but I think I’ve managed to persuade him to go down with me,” said Tetley. 
@@ -362,20 +361,16 @@ Dan and I looked on in amusement.
 However, when a couple of mugs of tea did little to alleviate his hangover, it soon became clear that Samo wasn’t in fit enough state to go pushing at -850 m in the next few hours. 
  
 
-
 “Maybe...” Tetley began, eyes taking on that characteristic gleam. 
 Uh oh; I brace myself. 
 Anyone who knows Tetley knows about him and his ‘plans’. 
 I could practically smell one forming in his mind. 
 “...maybe I could go down with Clare today, push *Daydreamers*, then you and Karin can come down together tomorrow to meet us at camp, and we can swap partners? Of course, I haven’t even discussed any of this with Clare yet...”
 
-
 “Yeah, you haven’t!” I nod, eyebrows raised. 
- 
-
 
 Then Samo voiced his agreement, and it was up to me. 
-I hesitated; I’d already made plans for a fun, relaxing jolly to Pico with Kate and Nia... 
+I hesitated; I’d already made plans for a fun, relaxing jolly to *Pico* with Kate and Nia... 
 and Tetley’s proposal was a trip of a very different nature indeed. 
 But the cave was calling. 
 I thought of the lead we’d left in *Daydreamers* on our previous trip, the promise of extra depth, the uncertainty of what we’d find below the next pitch... 
@@ -383,9 +378,7 @@ And I was all too aware, as I am sure Tet was too, that this might well be the l
 I looked out of the Bivi to the same blue sky and bright sun I woke up to. 
 Fuck pleasant bimbles, I thought, I’m going down.
 
-
 “When do you want to leave?”
-
 
 “As soon as possible,” the Sly One grinned back. 
 It crossed my mind that he knew I wouldn’t—couldn’t—have said no. 
@@ -446,25 +439,19 @@ I knew Tet would kill me if I lost his baccy.
 I rolled a passable cigarette, lit it, and he disappeared down the pitch. 
 I, of course, followed.
 
-
 *Daydreamers* continued in the same vein for a while, short 5–15 metre cascade pitches which we took turns bolting. 
 How it teased us! Would it go? Would it sump? Never knowing what exactly we’ll find around the corner, a thrill of exploratory caving I doubt I’ll ever grow tired of. 
 Eventually, the last pitch we dropped turned out to be a blind one. 
 The water gurgled mockingly into a ten centimetre wide, angled bedding plane rift, and we were unable to follow it. 
- 
-
 
 I couldn’t help but feel a little disappointed, suddenly becoming more aware of how cold it was... 
 Camp *X-Ray* and hot, sugary tea seemed far away. 
 Tetley, perhaps sensing my deflation, offered some consolation, “Don’t worry, we’ll find a bypass!”  
 
-
 I grinned back. 
 This was still a stonking good trip, regardless.
 
-
 “On station!” We began to survey.
-
 
 Though our callout was beckoning and we still had surveying to complete, we knew we couldn’t leave a quasi-lead hanging like this, not when the pushing front was so far from camp. 
 So we pushed on through an old fossil level that continued above the blind pitch, which I’d explored briefly while Tetley was bolting earlier. 
@@ -477,7 +464,7 @@ It is both a blessing and a curse, and I would not change it for the world.
 
 Finally, we got to a roomy chamber with the unmistakable rumble of water in the distance. 
 I flashed Tetley what I’m sure was a jubilant grin. 
-It seemed as good a lead as any to leave; we shook hands, and the whole dry series we named the Penguin’s Egg, for "if you march your winter journeys, you will have your reward, so long as all you want is a penguin’s egg."
+It seemed as good a lead as any to leave; we shook hands, and the whole dry series we named the *Penguin’s Egg*, for \begin{quote}"if you march your winter journeys, you will have your reward, so long as all you want is a penguin’s egg." \end{quote}
 
 \attrib{Clare Tan}
 
@@ -585,17 +572,17 @@ Oh, the lure of deep cave exploration...
 
 \attrib{Clare Tan}
 
-##*Let na Drugi Svet* 
+## *Let na Drugi Svet* 
 
-Kletnik and I decided to go camping. We started at 9pm and arrived to camp really early. There was enough time to go and show Kletnik the crystals. Once back in the camp, Kate and Jan were already getting ready to go out. We ate a bit and went to bed. 
+Kletnik and I decided to go camping. We started at 9 pm and arrived at camp  *X-Ray* really early. There was enough time to go and show Kletnik the crystals in *Palace of King Minos*. Once back in the camp, Kate and Jan were already getting ready to go out. We ate a bit and went to bed. 
 
-Once awake, we quickly ate and pack and were on the way to *Serpentine*. Here we climbed up for about 4 m and the passage above led to about 26 m pitch. We bolted and start going down. Half way down was a big rubbing point so we made a rebelay. At the bottom there was a bolder choke and we tried to find a way through. After some hard work, I finally managed to squeeze through. Kletnik, being bigger than me, could not follow me. We tried to make the squeeze bigger, but with no success. On my own I continued to explore. But after 20 m, I was stopped by another tight space. With a bit of digging, it was passable. I returned back to Kletnik and explained the situation. He was keen to come back and do some digging. We surveyed on they way back and named the passage *Let na Drugi Svet*. Back in bed, Kletnik could not sleep. He was treating his *insomnia* with watching lots of Popaj.
+Once awake, we quickly ate and pack and were on the way to *Serpentine*. Here we climbed up for about 4 m and the passage above led to a pitch ca. 26 m deep. We bolted and started going down. Half way down the rope rubbed a great deal, so we made a rebelay. At the bottom there was a boulder choke and we tried to find a way through. After some hard work, I finally managed to squeeze through. Kletnik, being bigger than me, could not follow me. We tried to make the squeeze bigger, but with no success. On my own I continued to explore. But after 20 m, I was stopped by another tight space. With a bit of digging, it was passable. I returned back to Kletnik and explained the situation. He was keen to come back and do some digging. We surveyed on they way back and named the passage *Let na Drugi Svet*. Back in bed, Kletnik could not sleep. He was treating his insomnia with watching lots of Popaj.
 
 \attrib{\izi}
 
 ## Bolt climbing in *Queen's bed Chamber*
 
-After a couple of days of none caving, Gergley invited me to go camping with him, as he had a plan. The plan was to bolt climb the aven at the end of *Queen's bed Chamber*. Therefore he packed a lot of stuff as he was even afraid, that he might run out of stuff. On the end we carried down 3 tackle sacks. 
+After a couple of days without caving, Gergley invited me to go camping underground with him for he had a plan. The plan was to bolt climb the aven at the end of *Queen's bed Chamber*. Therefore he packed a large amount of equiment as he feared he might run out of gear during the attempt. In the end we carried down a total of 3 tackle sacks. 
 
 Once in a camp we packed all necessary for bolt climbing. When we arrived, I said to Gergely “You start climbing first”. Gergley looked at me and said: » I have never bolt climbed before, you go first«. I looked at him back and said: » Well, I have never bolt climbed before either. I have always free climbed« We start to laughing and decided that for sure can not be that hard and start to making a plan on how to do it. I started to bolt climb first, while Gergely was belaying me. After 9 m I was stopped by a big patch of mud. I tried to do the bolt above it, but was about 30 cm to short to drill a hole above the mud. At this point I decided that this is the end of climbing for today. I was climbing with a dynamic rope so what was left to do was to safely secure the static rope, till the point where I was able to reach. 
 
@@ -605,9 +592,19 @@ Back to the camp, while eating we were making plans for the next day.
 
 ## The continuation of *Stuck in Paradise*
 
-We started going towards *Stuck in paradise* to push this pitch that Jana and Gergeley started bolting. On the way there, he was explaining how big pitch is and that I will like it. When we arrived there, he was true about the big pitch, but he didn’t told me that is full of mud. Once Gergley went down with a drill on a bolting mission, I started smoking and singing to myself. After an hour or so, Gergley gave me the signal that I can start descending. He make a hell of a rigging, was really nice considering all the mud. Once we reach the bottom, all the effort was paid off. We arrived to horizontal gallery similar to *Palace of King Minos*. We followed the main passage all the way to the end, and were stopped by a bolder choke. We tried to drill and hammered our way through, but with no luck, so we decided to start surveying back. Because the passage was wide, it was easy to survey. Soon we reach the bottom of Stuck at paradise and just a couple of meters before we noticed that the draft goes into the side passage. We started crawling in this passage and it was tight all the way, so after about 30 m we encounter another bolder choke. We notice that you can go through, but we decided to leave it for some other team. So we surveyed back to the main passage, but it was quite an effort. We name it *Penitence*, because you crawl most of the time on your knees and the main passage was named *Lost Miles*. All what was left to do is surveying *Stuck in Paradise* pitch. It was quite a challenge because it was hard to read the instruments due to a lot of mud. On the end, we connected everything with P.S.S. in *Magic dragon*. Then was time for quick smoke, I took some pictures and we returned to the camp.
+We started going towards *Stuck in paradise* to push this pitch that Jana and Gergeley had started bolting. On the way there, he was explaining how big the pitch was, and how I would like it. When we arrived there, it turned out he was right about the size of the pitch, but he had not mentioned that it was full of mud. 
 
-After a good sleep, we were woken by Tetley and Clare. On the way down to the camp, they meet the other team, who told them what we found. Soon as Tetley saw us, he wanted to see our survey book. I was carrying it in my tackle bag, but when I wanted to show it to Tetley, I couldn’t find it. We start to panic for a bit and then I realized that it probably fell out when we stop for smoke in *Magic dragon*. We rushed back there and with huge relieve we found it. Back in the camp, I showed the survey book to Tetley. He immediately started to count the meters and then smiled to me and said: » Again you found more than 500 m, you are lucky because the right peoples are choosing you”. I replied: “This is not luck, I only take the right peoples with me or they take me??”.  After that was time to return to the surface for tea and medals ;).
+As soon as Gergley was down with the drill on a bolting mission, I started smoking and singing to myself. After an hour or so, Gergley signalled that I could start descending. He made a hell of a rigging effort, especially considering all the mud. Once we reached the bottom, all the effort was paid off. 
+
+We were at the beginning of a horizontal gallery very similar to the *Palace of King Minos*. We followed the main passage all the way to the end, where we were halted by a boulder choke. We tried to drill and hammer our way through, but no luck there, so we decided to start surveying back. 
+
+Because the passage was wide, it was fairly easy to survey. Soon we reacheed the bottom of *Stuck in Paradise*, but just a couple of meters before we noticed that the draft actually went into a side passage. We started crawling in this passage, which was tight all along; after about 30 m we encountered another boulder choke. 
+
+We noticed a possible way on through, but we decided to leave it for some other team and surveyed back to the main passage, however it was quite an effort. We named it *Penitence*, because you had to crawl on your knees for the most part and the main passage was named *Lost Miles*. All what was left to do was surveying *Stuck in Paradise* pitch itself. It ended up being quite a challenge as it was so hard to read the instruments due to the amount of mud. In the end, we connected everything with the P.S.S. at *Magic dragon*. Then it was time for quick smoke, some pictures and the long return to camp *X-Ray*.
+
+After a good sleep, we were woken up by Tetley and Clare. On the way down to the camp, they had met another team, who had told them about our recent finds. As soon as Tetley saw us, he wanted to have a look at our survey book. I had been carrying it in my tackle bag, but when I wanted to show it to Tetley, I couldn’t find it. 
+
+We started to panic after a little while, but then I realized that it had probably fallen out when we had stopped for a smoke in *Magic dragon*. We rushed back there and with huge relief found it. Back in the camp, I showed the survey book to Tetley. He immediately started to count the meters and then smiled to me and said: » Yet again you've found more than 500 m, you are very lucky in your choice of caving partners”. I replied: “This is no luck, I only take the right people with me or they take me??”.  After that, it was time to return to the surface for tea and medals ;).
 
 \attrib{\izi}
 
@@ -629,7 +626,7 @@ But he was up for a deep camping trip.
 Clare and Tetley had headed off in the good weather at the morning, Jim and I were taking rather longer to get ready. 
 As the slower party of the day, we had, by default, drawn the short straw and committed ourselves to a 'night train'. 
 By the time we were thinking to go, Andrej had arrived. 
-He was interested in M2, but as there were few experienced cavers left on the mountain top, he very readily converted to *Vrtnarija*.
+He was interested in *M2*, but as there were few experienced cavers left on the mountain top, he very readily converted to *Vrtnarija*.
 
 
 And so we were off, what a fine collection of Speleologists to be going deep with, I am caving with the very pioneers of deep exploration on Migovec! Jim is having to remember a fair bit of SRT as he goes, but we make steady progress to camp, saying hello to Mike & Ari at around nine in the evening. 
@@ -948,7 +945,7 @@ Back at camp, we wake Eric and Tjasha, and soon find ourselves ensconced in the 
 
 Eric and Tjasha come back early from their pushing, have decided to just survey and then come back as the *Let na Drugi Svet* cascades were getting unpleasantly wet. 
 With little chance of pleasant pushing, Jim and I decide to pack up and head out. 
-Everything is fine till we get to Alchemy, when I realise we can hear the water tumbling down Space Odyssey. 
+Everything is fine till we get to Alchemy, when I realise we can hear the water tumbling down *Space Odyssey*. 
 The cave is going into flood!
 
 Swing is actually OK, if you self deviate. 
@@ -982,10 +979,10 @@ Not only did we have our Penguins Egg, but we had brought it all back home.
 
 \attrib{Jarvist Moore Frost}
 
-## M2 Super Action
+## *M2* Super Action
 
 \begin{verse}
-âTo climb Mont Blanc by the Grepon route is one thing, to survey M2, as Totter once said, is quite another.â
+âTo climb Mont Blanc by the Grepon route is one thing, to survey *M2*, as Totter once said, is quite another.â
 \attrib{W. 
 E. 
 Bowman, The Ascent of Rum Doodle}
@@ -1012,31 +1009,32 @@ As soon as we are settled in, Izi and Fratnik start preparing a large pot of pas
 A vast pot is soon standing in the middle of table and we all tuck in. 
 Rationally I know that we are eating from the pot to save washing up, but a part of me believes that it is also a testimonial to the spirit of sharing and the brotherhood of cavers. 
 I am tempted to be polite and only eat my share, taking spoons of pasta in turn. 
-Tetley turns to me, raises his eyebrows and says: âDon't eat because you are hungry, eat because you want to get out of the cave tomorrowâ. 
+Tetley turns to me, raises his eyebrows and says \begin{quote} Don't eat because you are hungry, eat because you want to get out of the cave tomorrow \end{quote}. 
 I follow his advice and proceed to gorge myself. 
-Soon more people start arriving: first the Cadrg people: Eric with Karin and Tjasa, then Dejan and Bozo with two cavers from Ljubljana Miha and Mojca (pronounced Moi-tz-a). 
-More pasta is cooked, boxes of wine appear, spirits are high, here is the crÃ¨me de la crÃ¨me of cavers, Destiny weighs heavily on our shoulders, tomorrow the Connection will be found. 
-I notice that Fratnik has stopped drinking wine and swapped to tea and take his lead â I do not want to be completely hungover tomorrow. 
-At some point we leave the hut to test out Bozo's new petrol drill. 
-It is huge â how is he going to lug it through the cave I wonder? Soon enough I fold for bed, full of dreams of the glory that lies ahead.
 
- Â The next day we wake up, have a summary breakfast of bread and pig fat and pack up. 
+Soon more people start arriving: first the \v{C}adrg people: Eric with Karin and Tja\v{s}a, then Dejan and Bozo with two cavers from Ljubljana Miha and Mojca (pronounced Moi-tz-a). 
+More pasta is cooked, boxes of wine appear, spirits are high, here is the crÃ¨me de la crÃ¨me of cavers, Destiny weighs heavily on our shoulders, tomorrow the Connection will be found. 
+I notice that Fratnik has stopped drinking wine and swapped to tea and take his lead "I do not want to be completely hungover tomorrow". 
+At some point we leave the hut to test out Bozo's new petrol drill. 
+It is huge "how is he going to lug it through the cave I wonder?" Soon enough I fold for bed, full of dreams of the glory that lies ahead.
+
+The next day we wake up, have a summary breakfast of bread and pig fat and pack up. 
 In the meanwhile animated discussions in Slovenian are determining the Plan for the day. 
-Izi, Fratnik, Bozo, Dejan, Miha, Mojca, Jarv and I will go to M2, the rest will visit Primadona. 
+Izi, Fratnik, Bozo, Dejan, Miha, Mojca, Jarv and I will go to *M2*, the rest will visit Primadona. 
 Jarv and I have brought surveying equipment and our primary goal will be to measure the finds from the past few years. 
 The rest of the team will travel to the bottom of the cave and continue the efforts to widen the terminal rift. 
-The rest of the M2 team has packed and gone. 
+The rest of the *M2* team has packed and gone. 
 Bozo is carrying the most terrifyingly large backpack I have ever seen. 
 At the last minute Jarv and I realise we have not brought any food for caving and start scouring the hut looking for food. 
-We managed to scavenge 6 Frutabellas (yoghurt-fruit bars), a 200 g piece of bread and a small (100g?) tin of tuna. 
+We managed to scavenge 6 Frutabellas (yoghurt-fruit bars), a 200 g piece of bread and a small (100 g) tin of tuna. 
 In our minds we expect the surveying will not take that long. 
 Tetley also accompanies us up to the cave entrance. 
 Again walking up to Mig in the snow is a strange mix of familiar and new. 
-The usual path zig zags across the dwarf pine, but in the snow it is possible to simply go straight up through â or rather on top of â the vegetation. 
+The usual path zig zags across the dwarf pine, but in the snow it is possible to simply go straight up through or rather on top of the vegetation. 
 From the ridge of the mountain we can finally admire the Plateau, it's covered in snow and a few hundred meters ahead of us is the rest of the team. 
 We walk on, passing the rock arch that we cook,eat and live under during the summer. 
 It is covered in a deep layer of snow, but still is a familiar and loved place. 
-Reaching M2, we change into our caving gear, bid farewell to Tetley and start caving. 
+Reaching *M2*, we change into our caving gear, bid farewell to Tetley and start caving. 
 It is 11.30 a.m. 
 when we start caving, we had set off from Kal (the mountain hut) two hours earlier.
 
@@ -1101,18 +1099,18 @@ On top of Silos I sat down and closed my eyes.
 I did not fall into a deep sleep, but into a dream-like state, when I heard the noise of Jarv coming up behind me I was jolted back into the cave. 
 âWe are pretty much outâ, I kept repeating to myself, and âat least the squeezes get easier as you go further outâ. 
 At 4.30 a.m. 
-we were back into the entrance of M2. 
+we were back into the entrance of *M2*. 
 Luckily the weather was fine, no wind and good vis.
 
 Jarv successfully (miraculously?) navigated us back to the hut. 
 I simply put one foot in front of the other and fell over quite regularly. 
-Finally at 6.30 a.m. 
+Finally at 6.30 am. 
 we were in Kal, our mission was over. 
 A nice plate of jota and some tea and to sleep. 
 The hut was even more packed than the day before, people were taking turns for sleeping! It was nice to have some company for dinner and I think our hosts were impressed that we had been on such a long trip.
 
 Next day we got back to town and entered the data into the survey. 
-We had surveyed 245 m of cave and added just over 100 m to the depth of M2. 
+We had surveyed 245 m of cave and added just over 100 m to the depth of *M2*. 
 We had walked for 4 hrs in the snow and caved for 17 Â½ hours. 
 We ate approximately 1500 calories and consumed several thousand more. 
 We moved at an average speed of 3 meters per minute. 
@@ -1127,10 +1125,10 @@ The enduring question is: will it go?
 ##Alex Pitcher Award - Jonathon Hardman
 
 It had been less than a year since I had embarked on my first trip in a cave. 
-I had emerged from OFD thrilled by but following a less enjoyable trip in Yorkshire that had knocked my confidence slightly I had been apprehensive to accept a place on the trip to Slovenia. 
+I had emerged from *OFD* \sidenote{\emph{Ogof Ffynnon Ddu} cave system in South Wales} thrilled by but following a less enjoyable trip in Yorkshire that had knocked my confidence slightly I had been apprehensive to accept a place on the trip to Slovenia. 
 After being convinced to come on another caving trip I found myself hooked and it was with a nervous excitement I looked forward to the expedition, unsure of what to expect.
 
-After a week of final preparations -unfortunately I was absent for most of them- we loaded the university minibus full of crates of food and caving gear and left London on the 15th of July and, departing across the English channel, I watched the sun set over the white cliffs of Dover: it finally seemed like the expedition had begun.
+After a week of final preparations -unfortunately I was absent for most of them- we loaded the university minibus full of crates of food and caving gear and left London on the 15$^{th}$ of July and, departing across the English channel, I watched the sun set over the white cliffs of Dover: it finally seemed like the expedition had begun.
 
 
 Unfortunately, not all of the sights to be seen on the drive to Slovenia were so romantic. 
@@ -1145,7 +1143,7 @@ I listened intently, filled with excitement and trepidation knowing that soon, I
 
 The first task that was to be faced was the setting up of a camp on top of the mountain. 
 The supplies that we had stocked the van up with before leaving London had to be carried up the mountain for use and the only viable way of doing this was by loading up our rucksacks and carrying the loads up ourselves. 
-To make this a little easier, we drove an hour outside of Tolmin up some precarious mountain roads -special mention to the drivers who did an excellent job- to the small village of Tolminski Ravne. 
+To make this a little easier, we drove an hour outside of Tolmin up some precarious mountain roads -special mention to the drivers who did an excellent job- to the small village of Tolminske Ravne. 
 Here we were greeted by the family who had set up a deal with the expedition to allow us to use their barn to store our supplies in. 
 The family were, like almost every Slovenian I met, very welcoming and greeted us with a strong coffee to waken us up for the carries and a shot of Jagenje, a spirit fermented from pears. 
 With my body now trying to figure out what the hell I had just drunk we unloaded the van and, for the first time loaded our rucksacks under the shadow of Migovec for the first carry. 
@@ -1192,7 +1190,7 @@ He did, however, seem slightly mad but that only added to the sense of adventure
 
 The cave that we were to be surveying this year had once been known as ‘Ben’s Crap Lead’ but was renamed to ‘*Vrtnarija*’ (meaning Gardener’s World) when the cave went big upon the discovery of a 60 m pitch named Pico. 
 Since the initial years of discovery the cave had now reached a length of 8776 m and a depth of 877 m and had presented a number of exciting potential leads for the expedition. 
-My trip was a much more pedestrian affair that was to take me to the top of a pitch named Tesselator,  just over 200 m down. 
+My trip was a much more pedestrian affair that was to take me to the top of a pitch named *Tesselator*,  just over 200 m down. 
 To me this was no laughing matter. 
 Prior to Slovenia I had acquired limited SRT experience to put it lightly. 
 The three trips I had been on that contained SRT, moreover, had also not been very deep. 
@@ -1221,7 +1219,7 @@ Before me the cave opened up into a seemingly bottomless hole.
 Tetley asked if I wanted to go any further and, excited at the thought of going further into the cave I eagerly agreed. 
 The pitch itself was really quite nice the first time down. 
 It was a nice amble down six re-belays- good practice for my SRT. 
-At the bottom we decided to head down a few more pitches to the top of a pitch named Tesselator, the pitch head of which was supposedly quite tight and, not being a small guy, had me slightly nervous. 
+At the bottom we decided to head down a few more pitches to the top of a pitch named *Tesselator*, the pitch head of which was supposedly quite tight and, not being a small guy, had me slightly nervous. 
 Arriving at the top of the pitch I realised I had nothing to worry about and, as it had taken me awhile to get this far, we decided to turn back, especially as it was my first trip.
 
 
@@ -1239,10 +1237,10 @@ The day after, we set up our gear and descended into the cave for me first trip 
 
 
 Already I felt much more at ease with the cave as I made much quicker progress to the bottom of Pico than I had done on the previous trip. 
-In what felt like no time at all I arrived at the top of Tesselator and slipped through the narrow pitch-head with no trouble at all. 
+In what felt like no time at all I arrived at the top of *Tesselator* and slipped through the narrow pitch-head with no trouble at all. 
 Suddenly, my nerves became more apparent as the thought of descending deeper into the cave. 
 Almost all the pitches from now on were roughly the same height as Pico, if not larger and in no time at all, I felt myself committing myself to a much greater depth to ascend from. 
-Despite my nerves, I knew that I would be able to get out from where I was and we continued deeper and deeper down, as the maximum depth I had found myself in a cave ratcheted up as did the number of pitches: Tesselator, Space Odyssey, Concorde, Alchemy, Fisful of Tolars. 
+Despite my nerves, I knew that I would be able to get out from where I was and we continued deeper and deeper down, as the maximum depth I had found myself in a cave ratcheted up as did the number of pitches: *Tesselator*, *Space Odyssey*, *Concorde*, Alchemy, Fisful of Tolars. 
 Now, vertically I was very close to camp, I just had to pass through an awkward section of cave that followed an old fault line known as *Pink* and descend a couple of pitches. 
 Despite being told that I may find *Pink* slightly awkward (I’m quite a broad person) I found it no problem going down compared to some of the tight sections I had experienced in the UK as was the case with most of Slovenia. 
 Finally I was at the bottom of *Zimmer*, the final pitch before camp staring up at the seemingly never-ending blackness above me.
@@ -1303,7 +1301,7 @@ We were awoken at night by two cavers, Jarv and Clare, who looked very tired and
 They brought tales of apocalyptic weather on the surface that had lead to the conditions of *Zimmer*, there had even been snow on Migovec! By this point, the water was beginning to subside and we made plans to get up early and leave for the surface.
 I awoke feeling confident and after breakfast we made a bid for the surface. 
 Having thought about my prussiking long and hard I found myself at the top of the 70 m *Zimmer* in what felt like no time at all feeling a lot more confident (admittedly, we had decided I wasn’t to carry a tackle bag out). 
-*Pink* went by with ease and by the bottom of Concorde I felt happy and confident that I had had nothing to worry about. 
+*Pink* went by with ease and by the bottom of *Concorde* I felt happy and confident that I had had nothing to worry about. 
  
 
 
@@ -1383,11 +1381,11 @@ As we spent a sunny afternoon in the Bivi catching up, the covering of my suit b
 Unfortunately, the next day came and went as Dave still didn’t feel entirely certain about his own physical state. 
 Then, late in the afternoon of the following day, we finally headed down to camp. 
 The trip down was over much more quickly than my previous journey to underground camp. 
- Our ‘mission’ for this pushing trip was to investigate a hole in the side of *big rock candy mountain* that Dave had noticed the previous year. 
+ Our ‘mission’ for this pushing trip was to investigate a hole in the side of *Big Rock Candy Mountain* that Dave had noticed the previous year. 
 After a nights rest, we set off to do just that.
 
 
-Lugging a drill and some rope to the other end of *friendship gallery* (the drill, to hopefully make rigging down this monster pitch an easier task. 
+Lugging a drill and some rope to the other end of *Friendship Gallery* (the drill, to hopefully make rigging down this monster pitch an easier task. 
 The plan was to rig a traverse across the mud slope that formed the beginning of the pitch to the other side then drop down from there. 
 Hopefully, this would have then provided access to the hole much easier. 
 In hindsight, it would have been best to have a look down the pitch first and ensure that we were going about this mission the best way possible but due to the size and the precarious nature of the pitch itself, we both seemed reluctant to do so.
@@ -1415,7 +1413,7 @@ Standing up in the length of rope above me I finally freed myself and began to d
 It was from here we noticed that our initial attempt had been futile. 
 The small hole that Dave had noticed previously turned out to be what looked like a separate chamber of comparable size to BRCM. 
 Unfortunately, climbing over to it would have to wait for another team. 
-Feeling defeated we returned to *friendship gallery* and had a look at on of the other leads that had been discovered out of curiosity. 
+Feeling defeated we returned to *Friendship Gallery* and had a look at on of the other leads that had been discovered out of curiosity. 
 Unfortunately, we were unable to push any further cave. 
 We rested, discussed our findings with other cavers and exited the cave the next day, this time taking a tackle bag. 
 Whilst carrying the equipment out made sections such as *Pink* and the Urinal series more awkward, it helped to increase my confidence within the cave.

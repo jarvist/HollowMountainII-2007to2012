@@ -438,7 +438,7 @@ Needed to be re-rigged.
 The way on then continue up and into another smaller bolder choke. 
 Under there was a small pitch down. 
 From there we first climb up the rock and end up above big black hole. 
-We throw a stone down and we can hear that there wats a long way down – 4s! Fucking hell – that is like 80 m pitch. 
+We throw a stone down and we can hear that there wats a long way down – 4 seconds! Fucking hell – that is like 80 m pitch. 
 Very excited we keep on throwing stones down. 
 The echo at the bottom was amazing. 
 We could also hear that there was a big slope at the bottom. 
@@ -462,7 +462,7 @@ He made another bolt approx half way down on a tiny ledge.
 When he come down he shouted – O, my god, it is really big! Quickly followed down, looking around on the way- Amazing! At the bottom we explored around and found the way on under the bolder choke. 
 There is another approx 10 m pitch on. 
 We had some lunch and then was time to survey it. 
-The bottom was impressive 20x20 m. 
+The bottom was impressive $20\times20$ m. 
 Cuz the tape was not long enough we had to mark the rope, using a zink-oxide tape twice on a way up. 
 The length to the rigging spot was 75+15 m to the top. 
 And there it was - a 90 m pitch. 

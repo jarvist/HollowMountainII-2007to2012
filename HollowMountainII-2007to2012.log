@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  3 MAR 2019 17:42
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  4 MAR 2019 08:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -873,31 +873,417 @@ Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
 \colbreak@box=\box75
 \mc@col@check@num=\count280
 )))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box76
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count281
+\c@pgf@countb=\count282
+\c@pgf@countc=\count283
+\c@pgf@countd=\count284
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)
+\pgfsys@objnum=\count285
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count286
+\pgfsyssoftpath@bigbuffer@items=\count287
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen179
+\pgfmath@count=\count288
+\pgfmath@box=\box77
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count289
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen180
+\pgf@picmaxx=\dimen181
+\pgf@picminy=\dimen182
+\pgf@picmaxy=\dimen183
+\pgf@pathminx=\dimen184
+\pgf@pathmaxx=\dimen185
+\pgf@pathminy=\dimen186
+\pgf@pathmaxy=\dimen187
+\pgf@xx=\dimen188
+\pgf@xy=\dimen189
+\pgf@yx=\dimen190
+\pgf@yy=\dimen191
+\pgf@zx=\dimen192
+\pgf@zy=\dimen193
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen194
+\pgf@path@lasty=\dimen195
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen196
+\pgf@shorten@start@additional=\dimen197
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box78
+\pgf@hbox=\box79
+\pgf@layerbox@main=\box80
+\pgf@picture@serial@count=\count290
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen198
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen199
+\pgf@pt@y=\dimen256
+\pgf@pt@temp=\dimen257
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen258
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen259
+\pgf@sys@shading@range@num=\count291
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box81
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box82
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count292
+\pgfplotmarksize=\dimen264
+)
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box83
+\tikz@figbox@bg=\box84
+\tikz@tempbox=\box85
+\tikz@tempbox@bg=\box86
+\tikztreelevel=\count293
+\tikznumberofchildren=\count294
+\tikznumberofcurrentchild=\count295
+\tikz@fig@count=\count296
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count297
+\pgfmatrixcurrentcolumn=\count298
+\pgf@matrix@numberofcolumns=\count299
+)
+\tikz@expandcount=\count300
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.callouts.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.callouts.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+
+\pgfnodepartlowerbox=\box87
+\pgfnodeparttwobox=\box88
+\pgfnodepartthreebox=\box89
+\pgfnodepartfourbox=\box90
+\pgfnodeparttwentybox=\box91
+\pgfnodepartnineteenbox=\box92
+\pgfnodeparteighteenbox=\box93
+\pgfnodepartseventeenbox=\box94
+\pgfnodepartsixteenbox=\box95
+\pgfnodepartfifteenbox=\box96
+\pgfnodepartfourteenbox=\box97
+\pgfnodepartthirteenbox=\box98
+\pgfnodeparttwelvebox=\box99
+\pgfnodepartelevenbox=\box100
+\pgfnodeparttenbox=\box101
+\pgfnodepartninebox=\box102
+\pgfnodeparteightbox=\box103
+\pgfnodepartsevenbox=\box104
+\pgfnodepartsixbox=\box105
+\pgfnodepartfivebox=\box106
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.7)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the
+ decoration libraries instead of the snakes library on input line 14.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen271
+\pgfdecoratedremainingdistance=\dimen272
+\pgfdecoratedinputsegmentcompleteddistance=\dimen273
+\pgfdecoratedinputsegmentremainingdistance=\dimen274
+\pgf@decorate@distancetomove=\dimen275
+\pgf@decorate@repeatstate=\count301
+\pgfdecorationsegmentamplitude=\dimen276
+\pgfdecorationsegmentlength=\dimen277
+)
+\tikz@lib@dec@box=\box107
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.shapes.code.tex
+(/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.shapes.code.tex)))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 20.
+(hyperref)                removing `\\' on input line 62.
 
 (./HollowMountainII-2007to2012.aux (./HollowMountainII-2007to2012_content.aux))
 \openout1 = `HollowMountainII-2007to2012.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -905,78 +1291,78 @@ LaTeX Font Info:    ... okay on input line 23.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 23.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 23.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 23.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 23.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 23.
-LaTeX Font Info:    Redeclaring math accent \check on input line 23.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 23.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 23.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 23.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 23.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 23.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 65.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 65.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 65.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 65.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 65.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 65.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 65.
+LaTeX Font Info:    Redeclaring math accent \check on input line 65.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 65.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 65.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 23.
+(Font)              `operators' in the math version `normal' on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 23.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 65.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 23.
+(Font)              `operators' in the math version `bold' on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 23.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 65.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 23.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 65.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 65.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 23.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 65.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 23.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 65.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 23.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 65.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 23.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 65.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 23.
-\AtBeginShipoutBox=\box76
-Package hyperref Info: Link coloring OFF on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 65.
+\AtBeginShipoutBox=\box108
+Package hyperref Info: Link coloring OFF on input line 65.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count281
+\c@section@level=\count302
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+LaTeX Info: Redefining \nameref on input line 65.
 
 (./HollowMountainII-2007to2012.out) (./HollowMountainII-2007to2012.out)
-\@outlinefile=\write3
-\openout3 = `HollowMountainII-2007to2012.out'.
+\@outlinefile=\write4
+\openout4 = `HollowMountainII-2007to2012.out'.
 
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 23.
+LaTeX Info: Redefining \selectfont on input line 65.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1013,20 +1399,21 @@ LaTeX Info: Redefining \selectfont on input line 23.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \langwohyphens=\language84
+ABD: EveryShipout initializing macros
 
 Class tufte-book Warning: Proper spacing of ALL-CAPS letters has not been set u
 p.
-This message occurred on input line 27.
-
-
-Class tufte-book Warning: Proper spacing of ALL-CAPS letters has not been set u
-p.
-This message occurred on input line 27.
+This message occurred on input line 69.
 
 
 Class tufte-book Warning: Proper spacing of ALL-CAPS letters has not been set u
 p.
-This message occurred on input line 27.
+This message occurred on input line 69.
+
+
+Class tufte-book Warning: Proper spacing of ALL-CAPS letters has not been set u
+p.
+This message occurred on input line 69.
 
 [1
 
@@ -1036,8 +1423,8 @@ This message occurred on input line 27.
 
 
 ] (./HollowMountainII-2007to2012.toc [3] [4] [5] [6] [7])
-\tf@toc=\write4
-\openout4 = `HollowMountainII-2007to2012.toc'.
+\tf@toc=\write5
+\openout5 = `HollowMountainII-2007to2012.toc'.
 
  [8]
 \openout2 = `HollowMountainII-2007to2012_content.aux'.
@@ -1315,12 +1702,6 @@ Class tufte-book Warning: Proper spacing of small-caps letters has not been set
 This message occurred on input line 1827.
 
 [45]
-! Misplaced alignment tab character &.
-<argument> ...rope went -- 90 m 11 mm, 90 m 9 mm &
-                                                   1 tacklesac
-l.1869 ... -- 90 m 11 mm, 90 m 9 mm & 1 tacklesac}
-                                                  
-? 
 
 LaTeX Warning: Marginpar on page 46 moved.
 
@@ -1670,7 +2051,7 @@ This message occurred on input line 3952.
 [85] [86
 
 ] [87]
-Overfull \hbox (7.83554pt too wide) in paragraph at lines 4047--4052
+Overfull \hbox (7.83554pt too wide) in paragraph at lines 4048--4053
 \TU/lmr/m/n/10 with haematite deposits and the start of a phreatic crawlway (\T
 U/lmr/m/sc/10 Rotten 
  []
@@ -1678,14 +2059,14 @@ U/lmr/m/sc/10 Rotten
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4056.
+This message occurred on input line 4057.
 
 [88]
 
 LaTeX Warning: Marginpar on page 89 moved.
 
 
-Overfull \hbox (10.25554pt too wide) in paragraph at lines 4092--4101
+Overfull \hbox (10.25554pt too wide) in paragraph at lines 4093--4102
 \TU/lmr/m/n/10 started with \TU/lmr/m/sc/10 Republika \TU/lmr/m/n/10 in 2009 an
 d was left with an active streamway 
  []
@@ -1693,10 +2074,10 @@ d was left with an active streamway
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4112.
+This message occurred on input line 4113.
 
 [89]
-Overfull \hbox (0.61554pt too wide) in paragraph at lines 4157--4163
+Overfull \hbox (0.61554pt too wide) in paragraph at lines 4158--4164
 []\TU/lmr/m/n/10 Midway along this phreatic tunnel, a climb was made (\TU/lmr/m
 /sc/10 Serenade\TU/lmr/m/n/10 ) 
  []
@@ -1704,7 +2085,7 @@ Overfull \hbox (0.61554pt too wide) in paragraph at lines 4157--4163
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4170.
+This message occurred on input line 4171.
 
 [90]
 
@@ -1720,16 +2101,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4222.
+This message occurred on input line 4223.
 
 [91]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4276.
+This message occurred on input line 4277.
 
 [92]
-Overfull \hbox (5.46239pt too wide) in paragraph at lines 4316--4316
+Overfull \hbox (5.46239pt too wide) in paragraph at lines 4317--4317
 |\TU/lmr/m/it/10.95 Attempted rigging of \TU/lmr/m/sc/10.95 Big Rock Candy Moun
 tain \TU/lmr/m/it/10.95 alternative,
  []
@@ -1737,13 +2118,13 @@ tain \TU/lmr/m/it/10.95 alternative,
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4341.
+This message occurred on input line 4342.
 
 [93]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4394.
+This message occurred on input line 4395.
 
 [94]
 Missing character: There is no ☺ in font [lmroman10-regular]:mapping=tex-text;!
@@ -1751,13 +2132,13 @@ Missing character: There is no ☺ in font [lmroman10-regular]:mapping=tex-text;
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4450.
+This message occurred on input line 4451.
 
 [95]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4502.
+This message occurred on input line 4504.
 
 [96]
 Missing character: There is no ☺ in font [lmroman10-regular]:mapping=tex-text;!
@@ -1768,13 +2149,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4549.
+This message occurred on input line 4551.
 
 [97]
 
+LaTeX Warning: Marginpar on page 98 moved.
+
+
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4607.
+This message occurred on input line 4609.
 
 [98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1783,7 +2167,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4671.
+This message occurred on input line 4673.
 
 [99]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1792,13 +2176,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4727.
+This message occurred on input line 4729.
 
 [100]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4792.
+This message occurred on input line 4794.
 
 [101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1807,10 +2191,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4850.
+This message occurred on input line 4852.
 
 [102]
-Overfull \hbox (0.66556pt too wide) in paragraph at lines 4858--4864
+Overfull \hbox (0.66556pt too wide) in paragraph at lines 4860--4866
 []\TU/lmr/m/n/10 This went on for a good 15 minutes at least. Eventually I thou
 ght, 
  []
@@ -1818,19 +2202,19 @@ ght,
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4912.
+This message occurred on input line 4905.
 
 [103]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 4960.
+This message occurred on input line 4961.
 
 [104]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5010.
+This message occurred on input line 5018.
 
 [105]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1839,7 +2223,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5068.
+This message occurred on input line 5077.
 
 [106]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1848,7 +2232,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5121.
+This message occurred on input line 5133.
 
 [107]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1866,7 +2250,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5233.
+This message occurred on input line 5235.
 
 [109]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1875,13 +2259,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5290.
+This message occurred on input line 5296.
 
 [110]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5344.
+This message occurred on input line 5348.
 
 [111]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1890,7 +2274,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5404.
+This message occurred on input line 5407.
 
 [112]
 Missing character: There is no ^^80 in font [lmroman9-regular]:mapping=tex-text
@@ -1901,45 +2285,17 @@ Missing character: There is no ^^80 in font [lmroman9-regular]:mapping=tex-text
 ;!
 Missing character: There is no ^^9d in font [lmroman9-regular]:mapping=tex-text
 ;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^9c in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^9d in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^93 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^93 in font [lmroman10-regular]:mapping=tex-tex
-t;!
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5485.
+This message occurred on input line 5469.
 
 [113]
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^93 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^93 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5511.
+This message occurred on input line 5533.
 
 [114]
 Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
@@ -1966,22 +2322,6 @@ Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
 t;!
 Missing character: There is no ^^9d in font [lmroman10-regular]:mapping=tex-tex
 t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^9c in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^9d in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^9c in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
-t;!
-Missing character: There is no ^^9d in font [lmroman10-regular]:mapping=tex-tex
-t;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1989,7 +2329,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5578.
+This message occurred on input line 5575.
 
 [115]
 Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
@@ -2008,6 +2348,22 @@ Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
 t;!
 Missing character: There is no ^^9d in font [lmroman10-regular]:mapping=tex-tex
 t;!
+Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
+t;!
+Missing character: There is no ^^9c in font [lmroman10-regular]:mapping=tex-tex
+t;!
+Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
+t;!
+Missing character: There is no ^^9d in font [lmroman10-regular]:mapping=tex-tex
+t;!
+Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
+t;!
+Missing character: There is no ^^9c in font [lmroman10-regular]:mapping=tex-tex
+t;!
+Missing character: There is no ^^80 in font [lmroman10-regular]:mapping=tex-tex
+t;!
+Missing character: There is no ^^9d in font [lmroman10-regular]:mapping=tex-tex
+t;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2015,16 +2371,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5612.
+This message occurred on input line 5624.
 
 [116]
+
+LaTeX Warning: Marginpar on page 117 moved.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5666.
+This message occurred on input line 5689.
 
 [117]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2033,7 +2393,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5715.
+This message occurred on input line 5738.
 
 [118]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2042,7 +2402,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5770.
+This message occurred on input line 5794.
 
 [119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2051,7 +2411,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5837.
+This message occurred on input line 5827.
 
 [120]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2060,7 +2420,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5868.
+This message occurred on input line 5882.
 
 [121]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2069,7 +2429,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5916.
+This message occurred on input line 5927.
 
 [122]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2078,7 +2438,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 5977.
+This message occurred on input line 5980.
 
 [123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2087,7 +2447,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6027.
+This message occurred on input line 6026.
 
 [124]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2096,7 +2456,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6099.
+This message occurred on input line 6078.
 
 [125]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2105,7 +2465,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6126.
+This message occurred on input line 6135.
 
 [126]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2114,16 +2474,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6173.
+This message occurred on input line 6184.
 
 [127]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6196.
+This message occurred on input line 6220.
 
 [128]
-Overfull \hbox (0.87556pt too wide) in paragraph at lines 6230--6233
+Overfull \hbox (0.87556pt too wide) in paragraph at lines 6254--6257
 []\TU/lmr/m/n/10 In addition, an enduring desire to understand the caves of Mig
 ovec 
  []
@@ -2137,43 +2497,43 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6302.
+This message occurred on input line 6326.
 
 [130]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6351.
+This message occurred on input line 6375.
 
 [131]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6407.
+This message occurred on input line 6431.
 
 [132]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6464.
+This message occurred on input line 6488.
 
 [133]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6523.
+This message occurred on input line 6547.
 
 [134]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6591.
+This message occurred on input line 6615.
 
 [135]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6651.
+This message occurred on input line 6675.
 
 [136]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2182,7 +2542,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6698.
+This message occurred on input line 6722.
 
 [137]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2191,19 +2551,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6750.
+This message occurred on input line 6774.
 
 [138]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6800.
+This message occurred on input line 6824.
 
 [139]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6857.
+This message occurred on input line 6881.
 
 [140]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2212,7 +2572,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6911.
+This message occurred on input line 6935.
 
 [141]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2221,19 +2581,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 6959.
+This message occurred on input line 6983.
 
 [142]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7016.
+This message occurred on input line 7040.
 
 [143]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7067.
+This message occurred on input line 7091.
 
 [144]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2242,13 +2602,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7132.
+This message occurred on input line 7156.
 
 [145]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7181.
+This message occurred on input line 7205.
 
 [146]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2257,16 +2617,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7235.
+This message occurred on input line 7259.
 
 [147]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7285.
+This message occurred on input line 7309.
 
 [148]
-Overfull \hbox (0.13553pt too wide) in paragraph at lines 7324--7342
+Overfull \hbox (0.13553pt too wide) in paragraph at lines 7348--7366
 \TU/lmr/m/n/10 from a natural, and proceeded carefully along the ledge. Then, i
 n the 
  []
@@ -2278,7 +2638,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7342.
+This message occurred on input line 7366.
 
 [149]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2287,18 +2647,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7388.
+This message occurred on input line 7412.
 
 [150]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7432.
+This message occurred on input line 7456.
 
 [151] [152
 
 ]
-Overfull \hbox (0.41554pt too wide) in paragraph at lines 7437--7442
+Overfull \hbox (0.41554pt too wide) in paragraph at lines 7461--7466
 []\TU/lmr/m/n/10 The exploration does not end here. Every year, Tolminski Migov
 ec 
  []
@@ -2312,180 +2672,56 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7573.
+This message occurred on input line 7597.
 
 [156]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7632.
+This message occurred on input line 7656.
 
 [157]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7702.
+This message occurred on input line 7726.
 
 [158]
 
 LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
-(Font)              using `TU/lmr/bx/n' instead on input line 7762.
+(Font)              using `TU/lmr/bx/n' instead on input line 7786.
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7764.
+This message occurred on input line 7788.
 
 [159]
-
-LaTeX Warning: File `UgLog1012/1.jpeg' not found on input line 7769.
-
-! Unable to load picture or PDF file 'UgLog1012/1.jpeg'.
-<to be read again> 
-                   }
-l.7769 \includegraphics{UgLog1012/1.jpeg}
-                                         
-? 
-File: UgLog1012/1.jpeg Graphic file (type bmp)
-<UgLog1012/1.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7833.
+This message occurred on input line 7855.
 
 [160]
-
-LaTeX Warning: File `UgLog1012/2.jpeg' not found on input line 7875.
-
-! Unable to load picture or PDF file 'UgLog1012/2.jpeg'.
-<to be read again> 
-                   }
-l.7875 \includegraphics{UgLog1012/2.jpeg}
-                                         
-? 
-File: UgLog1012/2.jpeg Graphic file (type bmp)
-<UgLog1012/2.jpeg>
-
-LaTeX Warning: File `UgLog1012/3.jpeg' not found on input line 7891.
-
-! Unable to load picture or PDF file 'UgLog1012/3.jpeg'.
-<to be read again> 
-                   }
-l.7891 \includegraphics{UgLog1012/3.jpeg}
-                                         
-? 
-File: UgLog1012/3.jpeg Graphic file (type bmp)
-<UgLog1012/3.jpeg>
-
-LaTeX Warning: File `UgLog1012/4.jpeg' not found on input line 7895.
-
-! Unable to load picture or PDF file 'UgLog1012/4.jpeg'.
-<to be read again> 
-                   }
-l.7895 \includegraphics{UgLog1012/4.jpeg}
-                                         {[}Gergely's sketch plan of
-? 
-File: UgLog1012/4.jpeg Graphic file (type bmp)
-<UgLog1012/4.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7906.
+This message occurred on input line 7928.
 
 [161]
-
-LaTeX Warning: File `UgLog1012/5.jpeg' not found on input line 7918.
-
-! Unable to load picture or PDF file 'UgLog1012/5.jpeg'.
-<to be read again> 
-                   }
-l.7918 \includegraphics{UgLog1012/5.jpeg}
-                                         
-? 
-File: UgLog1012/5.jpeg Graphic file (type bmp)
-<UgLog1012/5.jpeg>
-
-LaTeX Warning: File `UgLog1012/6.jpeg' not found on input line 7922.
-
-! Unable to load picture or PDF file 'UgLog1012/6.jpeg'.
-<to be read again> 
-                   }
-l.7922 \includegraphics{UgLog1012/6.jpeg}
-                                         
-? 
-File: UgLog1012/6.jpeg Graphic file (type bmp)
-<UgLog1012/6.jpeg>
-
-LaTeX Warning: File `UgLog1012/7.jpeg' not found on input line 7949.
-
-! Unable to load picture or PDF file 'UgLog1012/7.jpeg'.
-<to be read again> 
-                   }
-l.7949 \includegraphics{UgLog1012/7.jpeg}
-                                         
-? 
-File: UgLog1012/7.jpeg Graphic file (type bmp)
-<UgLog1012/7.jpeg>
-
-LaTeX Warning: File `UgLog1012/8.jpeg' not found on input line 7960.
-
-! Unable to load picture or PDF file 'UgLog1012/8.jpeg'.
-<to be read again> 
-                   }
-l.7960 \includegraphics{UgLog1012/8.jpeg}
-                                         
-? 
-File: UgLog1012/8.jpeg Graphic file (type bmp)
-<UgLog1012/8.jpeg>
-
-LaTeX Warning: File `UgLog1012/9.jpeg' not found on input line 7964.
-
-! Unable to load picture or PDF file 'UgLog1012/9.jpeg'.
-<to be read again> 
-                   }
-l.7964 \includegraphics{UgLog1012/9.jpeg}
-                                         
-? 
-File: UgLog1012/9.jpeg Graphic file (type bmp)
-<UgLog1012/9.jpeg>
-
-LaTeX Warning: File `UgLog1012/10.jpeg' not found on input line 7968.
-
-! Unable to load picture or PDF file 'UgLog1012/10.jpeg'.
-<to be read again> 
-                   }
-l.7968 \includegraphics{UgLog1012/10.jpeg}
-                                          
-? 
-File: UgLog1012/10.jpeg Graphic file (type bmp)
-<UgLog1012/10.jpeg>
-
-LaTeX Warning: File `UgLog1012/11.jpeg' not found on input line 7972.
-
-! Unable to load picture or PDF file 'UgLog1012/11.jpeg'.
-<to be read again> 
-                   }
-l.7972 \includegraphics{UgLog1012/11.jpeg}
-                                          
-? 
-File: UgLog1012/11.jpeg Graphic file (type bmp)
-<UgLog1012/11.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 7982.
+This message occurred on input line 7998.
 
 [162]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2494,7 +2730,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8048.
+This message occurred on input line 8070.
 
 [163]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2503,282 +2739,88 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8115.
+This message occurred on input line 8132.
 
 [164]
-
-LaTeX Warning: File `UgLog1012/12.jpeg' not found on input line 8147.
-
-! Unable to load picture or PDF file 'UgLog1012/12.jpeg'.
-<to be read again> 
-                   }
-l.8147 \includegraphics{UgLog1012/12.jpeg}
-                                          
-? 
-File: UgLog1012/12.jpeg Graphic file (type bmp)
-<UgLog1012/12.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8178.
+This message occurred on input line 8191.
 
 [165]
-
-LaTeX Warning: File `UgLog1012/13.jpeg' not found on input line 8179.
-
-! Unable to load picture or PDF file 'UgLog1012/13.jpeg'.
-<to be read again> 
-                   }
-l.8179 \includegraphics{UgLog1012/13.jpeg}
-                                          
-? 
-File: UgLog1012/13.jpeg Graphic file (type bmp)
-<UgLog1012/13.jpeg>
-
-LaTeX Warning: File `UgLog1012/14.jpeg' not found on input line 8192.
-
-! Unable to load picture or PDF file 'UgLog1012/14.jpeg'.
-<to be read again> 
-                   }
-l.8192 \includegraphics{UgLog1012/14.jpeg}
-                                          
-? 
-File: UgLog1012/14.jpeg Graphic file (type bmp)
-<UgLog1012/14.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8237.
+This message occurred on input line 8250.
 
 [166]
-
-LaTeX Warning: File `UgLog1012/15.jpeg' not found on input line 8238.
-
-! Unable to load picture or PDF file 'UgLog1012/15.jpeg'.
-<to be read again> 
-                   }
-l.8238 \includegraphics{UgLog1012/15.jpeg}
-                                          
-? 
-File: UgLog1012/15.jpeg Graphic file (type bmp)
-<UgLog1012/15.jpeg>
-
-LaTeX Warning: File `UgLog1012/16.jpeg' not found on input line 8283.
-
-! Unable to load picture or PDF file 'UgLog1012/16.jpeg'.
-<to be read again> 
-                   }
-l.8283 \includegraphics{UgLog1012/16.jpeg}
-                                          
-? 
-File: UgLog1012/16.jpeg Graphic file (type bmp)
-<UgLog1012/16.jpeg>
-
-LaTeX Warning: File `UgLog1012/17.jpeg' not found on input line 8287.
-
-! Unable to load picture or PDF file 'UgLog1012/17.jpeg'.
-<to be read again> 
-                   }
-l.8287 \includegraphics{UgLog1012/17.jpeg}
-                                          
-? 
-File: UgLog1012/17.jpeg Graphic file (type bmp)
-<UgLog1012/17.jpeg>
-
-LaTeX Warning: File `UgLog1012/18.jpeg' not found on input line 8300.
-
-! Unable to load picture or PDF file 'UgLog1012/18.jpeg'.
-<to be read again> 
-                   }
-l.8300 \includegraphics{UgLog1012/18.jpeg}
-                                          
-? 
-File: UgLog1012/18.jpeg Graphic file (type bmp)
-<UgLog1012/18.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8305.
+This message occurred on input line 8317.
 
 [167]
-
-LaTeX Warning: File `UgLog1012/19.jpeg' not found on input line 8345.
-
-! Unable to load picture or PDF file 'UgLog1012/19.jpeg'.
-<to be read again> 
-                   }
-l.8345 \includegraphics{UgLog1012/19.jpeg}
-                                          
-? 
-File: UgLog1012/19.jpeg Graphic file (type bmp)
-<UgLog1012/19.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8376.
+This message occurred on input line 8384.
 
 [168]
-
-LaTeX Warning: File `UgLog1012/20.jpeg' not found on input line 8400.
-
-! Unable to load picture or PDF file 'UgLog1012/20.jpeg'.
-<to be read again> 
-                   }
-l.8400 \includegraphics{UgLog1012/20.jpeg}
-                                          
-? 
-File: UgLog1012/20.jpeg Graphic file (type bmp)
-<UgLog1012/20.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8432.
+This message occurred on input line 8441.
 
 [169]
-
-LaTeX Warning: File `UgLog1012/21.jpeg' not found on input line 8432.
-
-! Unable to load picture or PDF file 'UgLog1012/21.jpeg'.
-<to be read again> 
-                   }
-l.8432 \includegraphics{UgLog1012/21.jpeg}
-                                          
-? 
-File: UgLog1012/21.jpeg Graphic file (type bmp)
-<UgLog1012/21.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 8500.
-
-[170]
-File: UgLog1012/22.png Graphic file (type bmp)
-<UgLog1012/22.png>
-
-Overfull \hbox (511.5573pt too wide) in paragraph at lines 8515--8516
-[][]  
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 8517.
-
-[171]
-File: UgLog1012/23.png Graphic file (type bmp)
-<UgLog1012/23.png>
-
-Overfull \hbox (510.55357pt too wide) in paragraph at lines 8520--8521
-[][]  
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 8522.
-
-[172]
-Overfull \hbox (26.24554pt too wide) in paragraph at lines 8522--8525
+Overfull \hbox (26.24554pt too wide) in paragraph at lines 8499--8502
 []\TU/lmr/m/n/10 [20100729-13-06-55 - Iztok Mozir - P7294686 - Camp \TU/lmr/m/s
 c/10 X-Ray\TU/lmr/m/n/10 ]\TU/lmr/bx/sc/10 Izgubljeni 
  []
 
 
-LaTeX Warning: File `UgLog1012/24.jpeg' not found on input line 8526.
-
-! Unable to load picture or PDF file 'UgLog1012/24.jpeg'.
-<to be read again> 
-                   }
-l.8526 \includegraphics{UgLog1012/24.jpeg}
-                                          
-? 
-File: UgLog1012/24.jpeg Graphic file (type bmp)
-<UgLog1012/24.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8541.
+This message occurred on input line 8507.
 
-[173]
+[170]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8593.
+This message occurred on input line 8566.
 
-[174]
-
-LaTeX Warning: File `UgLog1012/25.jpeg' not found on input line 8655.
-
-! Unable to load picture or PDF file 'UgLog1012/25.jpeg'.
-<to be read again> 
-                   }
-l.8655 \includegraphics{UgLog1012/25.jpeg}
-                                          
-? 
-File: UgLog1012/25.jpeg Graphic file (type bmp)
-<UgLog1012/25.jpeg>
-
+[171]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8661.
+This message occurred on input line 8634.
 
-[175]
-
-LaTeX Warning: File `UgLog1012/26.jpeg' not found on input line 8698.
-
-! Unable to load picture or PDF file 'UgLog1012/26.jpeg'.
-<to be read again> 
-                   }
-l.8698 \includegraphics{UgLog1012/26.jpeg}
-                                          
-? 
-File: UgLog1012/26.jpeg Graphic file (type bmp)
-<UgLog1012/26.jpeg>
-
-Overfull \hbox (5.25555pt too wide) in paragraph at lines 8711--8713
+[172]
+Overfull \hbox (5.25555pt too wide) in paragraph at lines 8682--8684
 []\TU/lmr/m/n/10 After an hour of ‘Dead Ringers’ we’ve moved on to ‘Little Brit
 ain’…  
  []
@@ -2790,435 +2832,106 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8735.
+This message occurred on input line 8707.
+
+[173]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 8775.
+
+[174]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 8843.
+
+[175]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 8907.
 
 [176]
-
-LaTeX Warning: File `UgLog1012/27.jpeg' not found on input line 8766.
-
-! Unable to load picture or PDF file 'UgLog1012/27.jpeg'.
-<to be read again> 
-                   }
-l.8766 \includegraphics{UgLog1012/27.jpeg}
-                                          
-? 
-File: UgLog1012/27.jpeg Graphic file (type bmp)
-<UgLog1012/27.jpeg>
-
-LaTeX Warning: File `UgLog1012/28.jpeg' not found on input line 8772.
-
-! Unable to load picture or PDF file 'UgLog1012/28.jpeg'.
-<to be read again> 
-                   }
-l.8772 \includegraphics{UgLog1012/28.jpeg}
-                                          
-? 
-File: UgLog1012/28.jpeg Graphic file (type bmp)
-<UgLog1012/28.jpeg>
-
-LaTeX Warning: File `UgLog1012/29.jpeg' not found on input line 8781.
-
-! Unable to load picture or PDF file 'UgLog1012/29.jpeg'.
-<to be read again> 
-                   }
-l.8781 \includegraphics{UgLog1012/29.jpeg}
-                                          
-? 
-File: UgLog1012/29.jpeg Graphic file (type bmp)
-<UgLog1012/29.jpeg>
-
-LaTeX Warning: File `UgLog1012/30.jpeg' not found on input line 8785.
-
-! Unable to load picture or PDF file 'UgLog1012/30.jpeg'.
-<to be read again> 
-                   }
-l.8785 \includegraphics{UgLog1012/30.jpeg}
-                                          
-? 
-File: UgLog1012/30.jpeg Graphic file (type bmp)
-<UgLog1012/30.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 8812.
+This message occurred on input line 8970.
 
 [177]
-
-LaTeX Warning: File `UgLog1012/31.jpeg' not found on input line 8828.
-
-! Unable to load picture or PDF file 'UgLog1012/31.jpeg'.
-<to be read again> 
-                   }
-l.8828 \includegraphics{UgLog1012/31.jpeg}
-                                          
-? 
-File: UgLog1012/31.jpeg Graphic file (type bmp)
-<UgLog1012/31.jpeg>
-
-LaTeX Warning: File `UgLog1012/32.jpeg' not found on input line 8864.
-
-! Unable to load picture or PDF file 'UgLog1012/32.jpeg'.
-<to be read again> 
-                   }
-l.8864 \includegraphics{UgLog1012/32.jpeg}
-                                          
-? 
-File: UgLog1012/32.jpeg Graphic file (type bmp)
-<UgLog1012/32.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 8873.
-
-[178]
-
-LaTeX Warning: File `UgLog1012/33.jpeg' not found on input line 8873.
-
-! Unable to load picture or PDF file 'UgLog1012/33.jpeg'.
-<to be read again> 
-                   }
-l.8873 \includegraphics{UgLog1012/33.jpeg}
-                                          
-? 
-File: UgLog1012/33.jpeg Graphic file (type bmp)
-<UgLog1012/33.jpeg>
-
-LaTeX Warning: File `UgLog1012/34.jpeg' not found on input line 8892.
-
-! Unable to load picture or PDF file 'UgLog1012/34.jpeg'.
-<to be read again> 
-                   }
-l.8892 \includegraphics{UgLog1012/34.jpeg}
-                                          
-? 
-File: UgLog1012/34.jpeg Graphic file (type bmp)
-<UgLog1012/34.jpeg>
-
-LaTeX Warning: File `UgLog1012/35.jpeg' not found on input line 8930.
-
-! Unable to load picture or PDF file 'UgLog1012/35.jpeg'.
-<to be read again> 
-                   }
-l.8930 \includegraphics{UgLog1012/35.jpeg}
-                                          
-? 
-File: UgLog1012/35.jpeg Graphic file (type bmp)
-<UgLog1012/35.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 8941.
-
-[179]
-
-LaTeX Warning: File `UgLog1012/36.jpeg' not found on input line 8948.
-
-! Unable to load picture or PDF file 'UgLog1012/36.jpeg'.
-<to be read again> 
-                   }
-l.8948 \includegraphics{UgLog1012/36.jpeg}
-                                          
-? 
-File: UgLog1012/36.jpeg Graphic file (type bmp)
-<UgLog1012/36.jpeg>
-
-LaTeX Warning: File `UgLog1012/37.jpeg' not found on input line 8970.
-
-! Unable to load picture or PDF file 'UgLog1012/37.jpeg'.
-<to be read again> 
-                   }
-l.8970 \includegraphics{UgLog1012/37.jpeg}
-                                          
-? 
-File: UgLog1012/37.jpeg Graphic file (type bmp)
-<UgLog1012/37.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 9006.
-
-[180]
-Overfull \hbox (2.37555pt too wide) in paragraph at lines 9040--9050
+Overfull \hbox (2.37555pt too wide) in paragraph at lines 8989--8999
 \TU/lmr/m/n/10 + Tet went to push \TU/lmr/m/sc/10 Insomnia\TU/lmr/m/n/10 . \TU/
 lmr/m/sc/10 Amazing Grace \TU/lmr/m/n/10 + \TU/lmr/m/sc/10 Magic Dragon 
  []
 
 
-LaTeX Warning: File `UgLog1012/38.jpeg' not found on input line 9051.
-
-! Unable to load picture or PDF file 'UgLog1012/38.jpeg'.
-<to be read again> 
-                   }
-l.9051 \includegraphics{UgLog1012/38.jpeg}
-                                          
-? 
-File: UgLog1012/38.jpeg Graphic file (type bmp)
-<UgLog1012/38.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9064.
+This message occurred on input line 9034.
+
+[178]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 9101.
+
+[179]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 9159.
+
+[180]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 9227.
 
 [181]
-
-LaTeX Warning: File `UgLog1012/39.jpeg' not found on input line 9088.
-
-! Unable to load picture or PDF file 'UgLog1012/39.jpeg'.
-<to be read again> 
-                   }
-l.9088 \includegraphics{UgLog1012/39.jpeg}
-                                          
-? 
-File: UgLog1012/39.jpeg Graphic file (type bmp)
-<UgLog1012/39.jpeg>
-
-LaTeX Warning: File `UgLog1012/40.jpeg' not found on input line 9101.
-
-! Unable to load picture or PDF file 'UgLog1012/40.jpeg'.
-<to be read again> 
-                   }
-l.9101 \includegraphics{UgLog1012/40.jpeg}
-                                          
-? 
-File: UgLog1012/40.jpeg Graphic file (type bmp)
-<UgLog1012/40.jpeg>
-
-LaTeX Warning: File `UgLog1012/41.jpeg' not found on input line 9105.
-
-! Unable to load picture or PDF file 'UgLog1012/41.jpeg'.
-<to be read again> 
-                   }
-l.9105 \includegraphics{UgLog1012/41.jpeg}
-                                          
-? 
-File: UgLog1012/41.jpeg Graphic file (type bmp)
-<UgLog1012/41.jpeg>
-
-LaTeX Warning: File `UgLog1012/42.jpeg' not found on input line 9120.
-
-! Unable to load picture or PDF file 'UgLog1012/42.jpeg'.
-<to be read again> 
-                   }
-l.9120 \includegraphics{UgLog1012/42.jpeg}
-                                          
-? 
-File: UgLog1012/42.jpeg Graphic file (type bmp)
-<UgLog1012/42.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9135.
+This message occurred on input line 9298.
 
 [182]
-
-LaTeX Warning: File `UgLog1012/43.jpeg' not found on input line 9179.
-
-! Unable to load picture or PDF file 'UgLog1012/43.jpeg'.
-<to be read again> 
-                   }
-l.9179 \includegraphics{UgLog1012/43.jpeg}
-                                          
-? 
-File: UgLog1012/43.jpeg Graphic file (type bmp)
-<UgLog1012/43.jpeg>
-
-LaTeX Warning: File `UgLog1012/44.jpeg' not found on input line 9186.
-
-! Unable to load picture or PDF file 'UgLog1012/44.jpeg'.
-<to be read again> 
-                   }
-l.9186 \includegraphics{UgLog1012/44.jpeg}
-                                          
-? 
-File: UgLog1012/44.jpeg Graphic file (type bmp)
-<UgLog1012/44.jpeg>
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9202.
+This message occurred on input line 9368.
 
 [183]
-
-LaTeX Warning: File `UgLog1012/45.jpeg' not found on input line 9244.
-
-! Unable to load picture or PDF file 'UgLog1012/45.jpeg'.
-<to be read again> 
-                   }
-l.9244 \includegraphics{UgLog1012/45.jpeg}
-                                          
-? 
-File: UgLog1012/45.jpeg Graphic file (type bmp)
-<UgLog1012/45.jpeg>
-
-LaTeX Warning: File `UgLog1012/46.jpeg' not found on input line 9248.
-
-! Unable to load picture or PDF file 'UgLog1012/46.jpeg'.
-<to be read again> 
-                   }
-l.9248 \includegraphics{UgLog1012/46.jpeg}
-                                          
-? 
-File: UgLog1012/46.jpeg Graphic file (type bmp)
-<UgLog1012/46.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 9266.
-
-[184]
-
-LaTeX Warning: File `UgLog1012/47.jpeg' not found on input line 9274.
-
-! Unable to load picture or PDF file 'UgLog1012/47.jpeg'.
-<to be read again> 
-                   }
-l.9274 \includegraphics{UgLog1012/47.jpeg}
-                                          
-? 
-File: UgLog1012/47.jpeg Graphic file (type bmp)
-<UgLog1012/47.jpeg>
-
-LaTeX Warning: File `UgLog1012/48.jpeg' not found on input line 9296.
-
-! Unable to load picture or PDF file 'UgLog1012/48.jpeg'.
-<to be read again> 
-                   }
-l.9296 \includegraphics{UgLog1012/48.jpeg}
-                                          
-? 
-File: UgLog1012/48.jpeg Graphic file (type bmp)
-<UgLog1012/48.jpeg>
-
-LaTeX Warning: File `UgLog1012/49.jpeg' not found on input line 9311.
-
-! Unable to load picture or PDF file 'UgLog1012/49.jpeg'.
-<to be read again> 
-                   }
-l.9311 \includegraphics{UgLog1012/49.jpeg}
-                                          
-? 
-File: UgLog1012/49.jpeg Graphic file (type bmp)
-<UgLog1012/49.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 9338.
-
-[185]
-
-LaTeX Warning: File `UgLog1012/50.jpeg' not found on input line 9344.
-
-! Unable to load picture or PDF file 'UgLog1012/50.jpeg'.
-<to be read again> 
-                   }
-l.9344 \includegraphics{UgLog1012/50.jpeg}
-                                          
-? 
-File: UgLog1012/50.jpeg Graphic file (type bmp)
-<UgLog1012/50.jpeg>
-
-LaTeX Warning: File `UgLog1012/51.jpeg' not found on input line 9382.
-
-! Unable to load picture or PDF file 'UgLog1012/51.jpeg'.
-<to be read again> 
-                   }
-l.9382 \includegraphics{UgLog1012/51.jpeg}
-                                          
-? 
-File: UgLog1012/51.jpeg Graphic file (type bmp)
-<UgLog1012/51.jpeg>
-
-LaTeX Warning: File `UgLog1012/52.jpeg' not found on input line 9396.
-
-! Unable to load picture or PDF file 'UgLog1012/52.jpeg'.
-<to be read again> 
-                   }
-l.9396 \includegraphics{UgLog1012/52.jpeg}
-                                          
-? 
-File: UgLog1012/52.jpeg Graphic file (type bmp)
-<UgLog1012/52.jpeg>
-
-LaTeX Warning: File `UgLog1012/53.jpeg' not found on input line 9400.
-
-! Unable to load picture or PDF file 'UgLog1012/53.jpeg'.
-<to be read again> 
-                   }
-l.9400 \includegraphics{UgLog1012/53.jpeg}
-                                          
-? 
-File: UgLog1012/53.jpeg Graphic file (type bmp)
-<UgLog1012/53.jpeg>
-
-LaTeX Warning: File `UgLog1012/54.jpeg' not found on input line 9404.
-
-! Unable to load picture or PDF file 'UgLog1012/54.jpeg'.
-<to be read again> 
-                   }
-l.9404 \includegraphics{UgLog1012/54.jpeg}
-                                          
-? 
-File: UgLog1012/54.jpeg Graphic file (type bmp)
-<UgLog1012/54.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 9410.
-
-[186]
-
-LaTeX Warning: File `UgLog1012/55.jpeg' not found on input line 9454.
-
-! Unable to load picture or PDF file 'UgLog1012/55.jpeg'.
-<to be read again> 
-                   }
-l.9454 \includegraphics{UgLog1012/55.jpeg}
-                                          
-? 
-File: UgLog1012/55.jpeg Graphic file (type bmp)
-<UgLog1012/55.jpeg>
-
-Overfull \hbox (1.96555pt too wide) in paragraph at lines 9462--9468
+Overfull \hbox (1.96555pt too wide) in paragraph at lines 9375--9381
 []\TU/lmr/m/n/10 We eat 2 frutabelas there and go surveying the part which foun
 ded 
  []
@@ -3230,41 +2943,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9477.
+This message occurred on input line 9434.
 
-[187]
-
-LaTeX Warning: File `UgLog1012/56.jpeg' not found on input line 9484.
-
-! Unable to load picture or PDF file 'UgLog1012/56.jpeg'.
-<to be read again> 
-                   }
-l.9484 \includegraphics{UgLog1012/56.jpeg}
-                                          
-? 
-File: UgLog1012/56.jpeg Graphic file (type bmp)
-<UgLog1012/56.jpeg>
-
-LaTeX Warning: File `UgLog1012/57.jpeg' not found on input line 9486.
-
-! Unable to load picture or PDF file 'UgLog1012/57.jpeg'.
-<to be read again> 
-                   }
-l.9486 \includegraphics{UgLog1012/57.jpeg}
-                                          
-? 
-File: UgLog1012/57.jpeg Graphic file (type bmp)
-<UgLog1012/57.jpeg>
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 9559.
-
-[188]
+[184]
 File: UgLog1012/58.png Graphic file (type bmp)
 <UgLog1012/58.png>
 
-Overfull \hbox (510.55357pt too wide) in paragraph at lines 9579--9580
+Overfull \hbox (510.55357pt too wide) in paragraph at lines 9488--9489
 [][]  
  []
 
@@ -3275,13 +2960,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9581.
+This message occurred on input line 9490.
 
-[189]
+[185]
 File: UgLog1012/59.png Graphic file (type bmp)
 <UgLog1012/59.png>
 
-Overfull \hbox (510.55357pt too wide) in paragraph at lines 9584--9585
+Overfull \hbox (510.55357pt too wide) in paragraph at lines 9493--9494
 [][]  
  []
 
@@ -3292,47 +2977,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9586.
+This message occurred on input line 9495.
 
-[190]
-File: UgLog1012/60.png Graphic file (type bmp)
-<UgLog1012/60.png>
-
-Overfull \hbox (510.55357pt too wide) in paragraph at lines 9589--9590
-[][]  
- []
-
-
+[186]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9591.
+This message occurred on input line 9503.
 
-[191]
-File: UgLog1012/61.png Graphic file (type bmp)
-<UgLog1012/61.png>
-
-Overfull \hbox (510.55357pt too wide) in paragraph at lines 9594--9595
-[][]  
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 9596.
-
-[192]
+[187]
 File: UgLog1012/62.png Graphic file (type bmp)
 <UgLog1012/62.png>
 
-Overfull \hbox (511.5573pt too wide) in paragraph at lines 9598--9599
+Overfull \hbox (511.5573pt too wide) in paragraph at lines 9503--9504
 [][]  
  []
 
@@ -3343,18 +3003,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9600.
+This message occurred on input line 9514.
 
-[193]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 9609.
-
-[194]
+[188]
 Missing character: There is no ⁰ in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3363,9 +3014,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9675.
+This message occurred on input line 9580.
 
-[195]
+[189]
 File: UgLog1012/63.jpeg Graphic file (type bmp)
 <UgLog1012/63.jpeg>
 
@@ -3375,9 +3026,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9712.
+This message occurred on input line 9617.
 
-[196]
+[190]
 Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3386,10 +3037,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9749.
+This message occurred on input line 9654.
 
-[197]
-Overfull \hbox (2.96556pt too wide) in paragraph at lines 9759--9764
+[191]
+Overfull \hbox (2.96556pt too wide) in paragraph at lines 9664--9669
 []\TU/lmr/m/n/10 At end of Salvation we (mostly Tetley) hammered our way throug
 h 
  []
@@ -3397,7 +3048,7 @@ h
 File: UgLog1012/64.jpeg Graphic file (type bmp)
 <UgLog1012/64.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 9781--9781
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 9686--9686
 [][]  
  []
 
@@ -3408,18 +3059,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9782.
+This message occurred on input line 9687.
 
-[198]
+[192]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9793.
+This message occurred on input line 9698.
 
-[199]
+[193]
 File: UgLog1012/65.jpeg Graphic file (type bmp)
 <UgLog1012/65.jpeg>
 Missing character: There is no ̴ in font [lmroman10-regular]:mapping=tex-text;!
@@ -3430,16 +3081,16 @@ Missing character: There is no ̴ in font [lmroman10-regular]:mapping=tex-text;!
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9836.
+This message occurred on input line 9741.
 
-[200]
+[194]
 Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⁰ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
 File: UgLog1012/66.jpeg Graphic file (type bmp)
 <UgLog1012/66.jpeg>
 
-Overfull \hbox (160.54971pt too wide) in paragraph at lines 9870--9872
+Overfull \hbox (160.54971pt too wide) in paragraph at lines 9775--9777
 [][]\TU/lmr/m/n/10 [Tetley’s 
  []
 
@@ -3450,13 +3101,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9872.
+This message occurred on input line 9777.
 
-[201]
+[195]
 File: UgLog1012/67.jpeg Graphic file (type bmp)
 <UgLog1012/67.jpeg>
 
-Overfull \hbox (24.22874pt too wide) in paragraph at lines 9881--9881
+Overfull \hbox (24.22874pt too wide) in paragraph at lines 9786--9786
 [][]  
  []
 
@@ -3467,9 +3118,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9882.
+This message occurred on input line 9787.
 
-[202]
+[196]
 File: UgLog1012/68.jpeg Graphic file (type bmp)
 <UgLog1012/68.jpeg>
 
@@ -3479,10 +3130,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9898.
+This message occurred on input line 9803.
 
-[203]
-Overfull \hbox (22.21555pt too wide) in paragraph at lines 9924--9927
+[197]
+Overfull \hbox (22.21555pt too wide) in paragraph at lines 9829--9832
 []\TU/lmr/m/n/10 Traverse) Horrific to bolt. Rock v. dodge. All foot holds loos
 e/dubious. 
  []
@@ -3495,20 +3146,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9936.
+This message occurred on input line 9841.
 
-[204]
+[198]
 File: UgLog1012/69.jpeg Graphic file (type bmp)
 <UgLog1012/69.jpeg>
 
-Overfull \hbox (13.71677pt too wide) in paragraph at lines 9942--9942
+Overfull \hbox (13.71677pt too wide) in paragraph at lines 9847--9847
 [][]  
  []
 
 File: UgLog1012/70.jpeg Graphic file (type bmp)
 <UgLog1012/70.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 9945--9945
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 9850--9850
 [][]  
  []
 
@@ -3519,7 +3170,87 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9946.
+This message occurred on input line 9851.
+
+[199]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 9861.
+
+[200]
+Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
+File: UgLog1012/71.jpeg Graphic file (type bmp)
+<UgLog1012/71.jpeg>
+
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 9913--9913
+[][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 9914.
+
+[201]
+File: UgLog1012/72.jpeg Graphic file (type bmp)
+<UgLog1012/72.jpeg>
+
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 9923--9923
+[][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 9924.
+
+[202]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 9935.
+
+[203]
+Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 10006.
+
+[204]
+File: UgLog1012/73.jpeg Graphic file (type bmp)
+<UgLog1012/73.jpeg>
+
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10056--10056
+[][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 10057.
 
 [205]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3528,32 +3259,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 9956.
+This message occurred on input line 10075.
 
 [206]
-Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
-File: UgLog1012/71.jpeg Graphic file (type bmp)
-<UgLog1012/71.jpeg>
-
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10008--10008
-[][]  
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10009.
+This message occurred on input line 10126.
 
 [207]
-File: UgLog1012/72.jpeg Graphic file (type bmp)
-<UgLog1012/72.jpeg>
+File: UgLog1012/74.jpeg Graphic file (type bmp)
+<UgLog1012/74.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10018--10018
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10157--10157
 [][]  
  []
 
@@ -3564,7 +3285,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10019.
+This message occurred on input line 10158.
 
 [208]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3573,94 +3294,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10030.
+This message occurred on input line 10172.
 
 [209]
-Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 10101.
-
-[210]
-File: UgLog1012/73.jpeg Graphic file (type bmp)
-<UgLog1012/73.jpeg>
-
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10151--10151
-[][]  
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 10152.
-
-[211]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 10170.
-
-[212]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 10221.
-
-[213]
-File: UgLog1012/74.jpeg Graphic file (type bmp)
-<UgLog1012/74.jpeg>
-
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10252--10252
-[][]  
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 10253.
-
-[214]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Class tufte-book Warning: Proper spacing of small-caps letters has not been set
- up.
-This message occurred on input line 10267.
-
-[215]
-
-LaTeX Warning: File `75.jpeg' not found on input line 10285.
-
-! Unable to load picture or PDF file '75.jpeg'.
-<to be read again> 
-                   }
-l.10285 \includegraphics{75.jpeg}
-                                 \\
-? 
-File: 75.jpeg Graphic file (type bmp)
-<75.jpeg>
 File: UgLog1012/76.jpeg Graphic file (type bmp)
 <UgLog1012/76.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10307--10307
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10211--10211
 [][]  
  []
 
@@ -3671,22 +3311,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10308.
+This message occurred on input line 10212.
 
-[216]
+[210]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10320.
+This message occurred on input line 10224.
 
-[217]
+[211]
 File: UgLog1012/77.jpeg Graphic file (type bmp)
 <UgLog1012/77.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10322--10323
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10226--10227
 [][]  
  []
 
@@ -3697,10 +3337,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10332.
+This message occurred on input line 10236.
 
-[218]
-Overfull \hbox (3.74554pt too wide) in paragraph at lines 10335--10337
+[212]
+Overfull \hbox (3.74554pt too wide) in paragraph at lines 10239--10241
 []\TU/lmr/m/n/10 After 54 hours underground time to surface and rise like a pho
 enix! 
  []
@@ -3708,7 +3348,7 @@ enix!
 File: UgLog1012/78.jpeg Graphic file (type bmp)
 <UgLog1012/78.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10366--10366
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10270--10270
 [][]  
  []
 
@@ -3719,10 +3359,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10367.
+This message occurred on input line 10271.
 
-[219]
-Overfull \hbox (6.98555pt too wide) in paragraph at lines 10371--10372
+[213]
+Overfull \hbox (6.98555pt too wide) in paragraph at lines 10275--10276
 []\TU/lmr/m/n/10 LEFT AT HAWAII (PSS Junction between Lots Miles/\TU/lmr/m/sc/1
 0 Penitence\TU/lmr/m/n/10 )  
  []
@@ -3730,22 +3370,22 @@ Overfull \hbox (6.98555pt too wide) in paragraph at lines 10371--10372
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10383.
+This message occurred on input line 10287.
 
-[220]
+[214]
 Underfull \vbox (badness 1895) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10447.
+This message occurred on input line 10351.
 
-[221]
+[215]
 File: UgLog1012/79.jpeg Graphic file (type bmp)
 <UgLog1012/79.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10499--10499
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10403--10403
 [][]  
  []
 
@@ -3756,13 +3396,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10500.
+This message occurred on input line 10404.
 
-[222]
+[216]
 File: UgLog1012/80.jpeg Graphic file (type bmp)
 <UgLog1012/80.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10502--10502
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10406--10406
 [][]  
  []
 
@@ -3773,22 +3413,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10503.
+This message occurred on input line 10407.
 
-[223]
+[217]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10514.
+This message occurred on input line 10418.
 
-[224]
+[218]
 File: UgLog1012/81.jpeg Graphic file (type bmp)
 <UgLog1012/81.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10551--10551
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10455--10455
 [][]  
  []
 
@@ -3799,19 +3439,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10552.
+This message occurred on input line 10456.
 
-[225]
+[219]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10563.
+This message occurred on input line 10467.
 
-[226]
-Overfull \hbox (3.66553pt too wide) in paragraph at lines 10632--10635
+[220]
+Overfull \hbox (3.66553pt too wide) in paragraph at lines 10536--10539
 []\TU/lmr/m/n/10 Hand a morning/afternoon working super-hard in the bivi (ahem…
 ) 
  []
@@ -3823,13 +3463,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10639.
+This message occurred on input line 10543.
 
-[227]
+[221]
 File: UgLog1012/82.jpeg Graphic file (type bmp)
 <UgLog1012/82.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10677--10677
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10581--10581
 [][]  
  []
 
@@ -3840,13 +3480,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10678.
+This message occurred on input line 10582.
 
-[228]
+[222]
 File: UgLog1012/83.jpeg Graphic file (type bmp)
 <UgLog1012/83.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10678--10678
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10582--10582
 [][]  
  []
 
@@ -3857,10 +3497,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10679.
+This message occurred on input line 10583.
 
-[229]
-Overfull \hbox (2.75554pt too wide) in paragraph at lines 10681--10683
+[223]
+Overfull \hbox (2.75554pt too wide) in paragraph at lines 10585--10587
 []\TU/lmr/m/n/10 All rather curious really – very interesting. Beautiful pure H
 aemer- 
  []
@@ -3872,13 +3512,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10692.
+This message occurred on input line 10596.
 
-[230]
+[224]
 File: UgLog1012/84.jpeg Graphic file (type bmp)
 <UgLog1012/84.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10752--10752
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10656--10656
 [][]  
  []
 
@@ -3889,29 +3529,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10753.
+This message occurred on input line 10657.
 
-[231]
+[225]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10767.
+This message occurred on input line 10671.
 
-[232]
-
-LaTeX Warning: File `85.png' not found on input line 10768.
-
-! Unable to load picture or PDF file '85.png'.
-<to be read again> 
-                   }
-l.10768 \includegraphics{85.png}
-                                \\
-? 
-File: 85.png Graphic file (type bmp)
-<85.png>
+[226]
 Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3920,13 +3549,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10827.
+This message occurred on input line 10732.
 
-[233]
+[227]
 File: UgLog1012/86.jpeg Graphic file (type bmp)
 <UgLog1012/86.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 10846--10846
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10749--10749
 [][]  
  []
 
@@ -3937,31 +3566,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10847.
+This message occurred on input line 10750.
 
-[234]
+[228]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10859.
+This message occurred on input line 10762.
 
-[235]
+[229]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10925.
+This message occurred on input line 10828.
 
-[236]
+[230]
 File: UgLog1012/87.jpeg Graphic file (type bmp)
 <UgLog1012/87.jpeg>
 
-Overfull \hbox (174.13971pt too wide) in paragraph at lines 10965--10971
+Overfull \hbox (174.13971pt too wide) in paragraph at lines 10868--10874
 [][]\TU/lmr/m/n/10 Nevermind, 
  []
 
@@ -3972,28 +3601,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10971.
+This message occurred on input line 10874.
 
-[237]
+[231]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 10979.
+This message occurred on input line 10882.
 
-[238]
+[232]
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 11063.
+This message occurred on input line 10966.
 
-[239]
+[233]
 File: UgLog1012/88.jpeg Graphic file (type bmp)
 <UgLog1012/88.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 11088--11088
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 10991--10991
 [][]  
  []
 
@@ -4004,28 +3633,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 11089.
+This message occurred on input line 10992.
 
-[240]
+[234]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 11113.
+This message occurred on input line 11016.
 
-[241]
+[235]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 11160.
+This message occurred on input line 11063.
 
-[242]
-Overfull \hbox (5.69554pt too wide) in paragraph at lines 11178--11179
+[236]
+Overfull \hbox (5.69554pt too wide) in paragraph at lines 11081--11082
 []\TU/lmr/m/n/10 Sam and Clare off to Queen’s Bedchamber. Back by 2AM, 12/8/12.
   
  []
@@ -4039,13 +3668,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 11196.
+This message occurred on input line 11099.
 
-[243]
+[237]
 File: UgLog1012/90.jpeg Graphic file (type bmp)
 <UgLog1012/90.jpeg>
 
-Overfull \hbox (123.82971pt too wide) in paragraph at lines 11242--11242
+Overfull \hbox (123.82971pt too wide) in paragraph at lines 11145--11145
 [][]  
  []
 
@@ -4056,52 +3685,49 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 11243.
+This message occurred on input line 11146.
 
-[244]
+[238]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 11262.
+This message occurred on input line 11165.
 
-[245])
+[239])
 
 Class tufte-book Warning: Proper spacing of small-caps letters has not been set
  up.
-This message occurred on input line 32.
+This message occurred on input line 74.
 
-[246]
+[240]
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
 (./HollowMountainII-2007to2012.aux (./HollowMountainII-2007to2012_content.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 33.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
 Package rerunfilecheck Info: File `HollowMountainII-2007to2012.out' has not cha
 nged.
-(rerunfilecheck)             Checksum: 74F515ED9CDD59835ADB43225E188C5D.
+(rerunfilecheck)             Checksum: FF5724F63ACA1C205DB26246D012F067.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
  ) 
 Here is how much of TeX's memory you used:
- 21780 strings out of 492970
- 409661 string characters out of 6133938
- 563169 words of memory out of 5000000
- 25461 multiletter control sequences out of 15000+600000
+ 33463 strings out of 492970
+ 690908 string characters out of 6133938
+ 837180 words of memory out of 5000000
+ 36933 multiletter control sequences out of 15000+600000
  532663 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 55i,12n,59p,10465b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,76p,10465b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on HollowMountainII-2007to2012.pdf (246 pages).
+Output written on HollowMountainII-2007to2012.pdf (240 pages).
