@@ -4,9 +4,9 @@ Vodna Sled 2010 was a clear success - in all we discovered 2.2 km of
 new passage, all below -500 m, all in *Vrtnarija* using *Camp
 X-Ray* (*Reloaded*, now a plush four bed camp at -550 m) as a base.
 
-The major discovery was the swinging into the *Leopard* lead from
+The major discovery was the swinging into the **Leopard** lead from
 *Zimmer* chamber, leading to a 1.5 km complex of mainly horizontal passage
-(*Prince Consort Road*, *Wonderland*), with many unpushed leads
+(**Prince Consort Road**, *Wonderland*), with many unpushed leads
 for future years.
 Significant amounts of exploration also
 took place in *Tolminska Korita* concluding with a connection
@@ -43,7 +43,7 @@ The prospects for exploration in 2011 are extremely good.
 The extensive horizontal
 development has led to the discovery and initial exploration of a
 number of independent streamways and associated pitch series, in a
-horizontal slice of the mountain we have never visited. *Camp X-Ray* is
+horizontal slice of the mountain we have never visited. Camp *X-Ray* is
 well suited for the continual exploration of these leads. We therefore left the
 camp partially equipped (roll mats, tent, a small quantity of sealed gas
 cylinders and fuel).
@@ -86,7 +86,7 @@ continued to be ignored in the summer due to their unusual position.
 
 These entrances were relocated (by GPS) this summer, but no new descents were made.
 
-### Leopard --- 1.5 km of new passage
+### *Leopard* --- 1.5 km of new passage
 
 \begin{figure*}
 \centering
@@ -95,7 +95,7 @@ These entrances were relocated (by GPS) this summer, but no new descents were ma
 Consort Road* during 2010 Expedition.}
 \end{figure*}
 
-Leopard became the great focus of exploration this year. 
+*Leopard* became the great focus of exploration this year. 
 This lead
 (a window off *Zimmer* chamber, now a 15 m 'up' pitch) had also been
 originally discovered in 2001, but the drop that it led to had lain
@@ -106,21 +106,21 @@ exploration had concentrated on good leads elsewhere (most particularly the
 lower *Vrtnarija* level accessed with the bottoming of *Big Rock*). 
 This pitch 
 took several sessions of rigging and gardening to successfully conquer, and is
-now named Cheetah (P35 m), because of the sense of having cheated death that
+now named *Cheetah* (P35 m), because of the sense of having cheated death that
 it engenders on passing \footnote{As with other loose pitches, this stabilised considerably over
 the next few years.}. 
-There are several windows off Cheetah, which are
-definitely promising \footnote{One was revisited by Jan and Kate in 2011, and found to be an alcove.}, although not easily accessible because of the broken nature
+There are several windows off *Cheetah*, which are
+definitely promising \sidenote{One was revisited by Jan and Kate in 2011, and found to be an alcove.}, although not easily accessible because of the broken nature
 of the rock.
 
 At the bottom, this pitch intersects a horizontal, fossil passage, which 
 can be divided into three main horizontal areas:
 
-Wonderland (heading South) linking into Rolling Stones, Surprise,
-Mudstone Traverse, Kamikaze and finally Lost Hopes. 
+*Wonderland* (heading South) linking into *Rolling Stones*, *Hidden Surprise*,
+*Mudstone Traverse*, *Kamikaze* and finally *Lost Hopes*. 
 This is mainly dry with large breakdown chambers. 
 
-*Prince Consort Road* (heading North) was initially pushed to the *Albert
+**Prince Consort Road** (heading North) was initially pushed to the *Albert
 Hall* (from where the *Serpentine* meander leads off to the *It
 Will Rain for a Million Years* pitch). This passage bisects three streamways (one of which
 was pushed and forms the *Esoterica* series) and includes considerable calcite
@@ -133,18 +133,18 @@ explored nor surveyed.
 The known passage leads via Minotaur Rift to terminate in the
 Queens Bed Chamber where the draught disappears towards the ceiling.
 
-Together this passage leading off from Cheetah has been explored to over 1.5 km in length,
+Together this passage leading off from *Cheetah* has been explored to over 1.5 km in length,
 and we are sure that more is yet to be found. 
 
 A significant volume of air flows through these regions, indicating that there may
 be further developments.
 
-### Wonderland
+### *Wonderland*
 
-Wonderland is the southern-most of the horizontal development, leading
-directly off from Cheetah. 
+*Wonderland* is the southern-most of the horizontal development, leading
+directly off from *Cheetah*. 
 It was pushed to a small pitch dropping
-into a boulder filled chamber, Rolling Stones, which was the limit of the first
+into a boulder filled chamber, *Rolling Stones*, which was the limit of the first
 exploration trip due to the lack of rope. 
  This chamber is situated right below
 Zimmer, about 40 m deeper. 
@@ -152,16 +152,16 @@ There is a further, as yet unpushed, pitch going down
 between the large, seemingly unstable, boulders on the floor.
 
 A happen stance crawl behind some boulders led to further drafting
-passage (Hidden Surprise), which, after traversing another chamber
+passage (*Hidden Surprise*), which, after traversing another chamber
 and crawl, finishes in a chamber with a massive hole in the floor
-(Kamikaze pitch). 
+(*Kamikaze* pitch). 
 The passage continues on the far side of the pitch
 (traversed on mud along the left wall), however, due to the collapsed
 ceiling, these developments are almost two-dimensional (Mudstone Squeeze).
 The squeeze, which is filled with interesting fossilised mud formations,
 was pushed to the limits of comfort, although it still continues.
 
-Kamikaze consists of a series of small ledges. 
+*Kamikaze* consists of a series of small ledges. 
 From the second ledge
 a tell tale breeze led to an interesting bedding plane crawl pushed
 upwind but still untouched downwind. 
@@ -169,22 +169,22 @@ The pitch was bottomed (Lost
 Hopes), wherein an inlet was followed down a 10 m pitch to a series
 of squeezes and rifts which quickly became tight. 
 There is a ledge
-halfway down Lost Hopes, with a perhaps larger abandoned rift.
+halfway down *Lost Hopes*, with a perhaps larger abandoned rift.
 
-These three leads (Kamikaze, Mudstone, Lost Hopes) are of interest
+These three leads (*Kamikaze*, Mudstone, *Lost Hopes*) are of interest
 as they now form the most Easterly extent of *Vrtnarija* at depth, seeming
 to 'spear' through the large N-S geological feature that contains
 the majority of the horizontal passage.
 
-The whole area of Wonderland is extremely dry, quiet and rather spacious
+The whole area of *Wonderland* is extremely dry, quiet and rather spacious
 in its scope. 
 It is particularly reminiscent of the higher level passage
 in the Easegill system, Yorkshire.
 
 
-### Prince Consort Road
+### *Prince Consort Road*
 
-Prince Consort Road is the passage going north from Cheetah. 
+*Prince Consort Road* is the passage going north from *Cheetah*. 
 Several
 small streams intersect it and some formations have been found. 
 The
@@ -248,7 +248,7 @@ Eventually the main route leads
 to a high and wide rift (Minotaur Rift \textemdash{} 20 m high, 60 m
 long) beyond which the best formations are to be found. 
 This passage
-has a few interesting leads in it: a high, dry, circular, muddy window
+has a few interesting leads in it: a high, dry, circular, *muddy window*
 to the right of the passage near a tiny inlet, 2 small tubes leading
 off the main passage which both need a little mechanical persuasion.
 
@@ -267,7 +267,7 @@ The region is extremely reminiscent of Ogof Ffynnon Ddu II in Wales.
 
 ## Tolminska Korita
 
-This lead of Zimmer chamber had been discovered in 2001 but had lain unexplored until last year, when the first few pits of the active meander were pushed to a larger pitch. *Tolminska Korita* developed into cascades of active pitches (Black Knight series) to a duck. The duck was soon bypassed by a 5 m free climb into old phreatic level. 
+This lead of *Zimmer* chamber had been discovered in 2001 but had lain unexplored until last year, when the first few pits of the active meander were pushed to a larger pitch. *Tolminska Korita* developed into cascades of active pitches (Black Knight series) to a duck. The duck was soon bypassed by a 5 m free climb into old phreatic level. 
 
 The passage beyond soon diverges into two continuations:
 
@@ -292,9 +292,9 @@ This water disappears into 'blank mountain' on
 our survey, but would require considerable effort to progress, and Korita
 was thus derigged.
 
-## *Roaring* Floor Tease (*Muddy Window* off *Happy Monday*)
+## *Roaring* Floor Tease (**Muddy Window** off *Happy Monday*)
 
-This was regained by bolt climbing from the bottom of *Happy Monday* to regain the Muddy Window. 
+This was regained by bolt climbing from the bottom of *Happy Monday* to regain the *Muddy Window*. 
 
 The climb in the mud chamber was made, but quickly led to a large boulder
 blocking the way. 
@@ -368,21 +368,33 @@ In their first day of caving the expedition had rerigged down to -300 m!
 
 \attrib{Jarvist Moore Frost}
 
-### The discovery of Wonderland 
+### The discovery of *Wonderland* 
 
-It was another rainy day. Arriving not too long ago to the plateau, the thrill of the new possibilities for discovery was boiling in my venes.  While drinking incountably many cups of tea, we discussed the possibilities with the old lags who are always  the source of infinite wisdom. Dave suggested to check out Leopard, the passage that opened from Zimmer, just opposite of *Friendship Gallery*. Martin McGowan had been there some 10 years ago, but information was unclear, and the chances for the continuation there had been at least dubious – so given it is so close to camp, why not give it a go?
+It was another rainy day. Arriving not too long ago to the plateau, the thrill of the new possibilities for discovery was boiling in my venes.  While drinking incountably many cups of tea, we discussed the possibilities with the old lags who are always  the source of infinite wisdom. Dave suggested to check out *Leopard*, the passage that opened from *Zimmer*, just opposite of *Friendship Gallery*. Martin McGowan had been there some 10 years ago, but information was unclear, and the chances for the continuation there had been at least dubious – so given it is so close to camp, why not give it a go?
  
 Andy was sort of up to going underground, and I felt super happy to go caving with one of the heroes of the discovery of many underground passages on Mig. So the usual endless faffing started, packing good amounts of food, Vitaminski, gas canisters, and some Zganje, and finally, well in the afternoon, we started our descent towards the unknown. 
 
-The way down we got again used to the feeling of hanging in big abysses on dubious bolts, which proved to be quite useful for what followed. Reaching Zimmer, Andy chatted to Tetley and Myles (who were already at camp), while I bounced with the rope to the window and put in two bolts for having an easier start the next day. Having a sleep at camp was OK, although Andy did not seem to be very happy about the limited comfort of X-Ray, and he stated that he was too old for underground camping – a fact that changed little of our plans for the next day, of course. 
+The way down we got again used to the feeling of hanging in big abysses on dubious bolts, which proved to be quite useful for what followed. Reaching *Zimmer*, Andy chatted to Tetley and Myles (who were already at camp), while I bounced with the rope to the window and put in two bolts for having an easier start the next day. Having a sleep at camp was OK, although Andy did not seem to be very happy about the limited comfort of *X-Ray*, and he stated that he was too old for underground camping – a fact that changed little of our plans for the next day, of course. 
 
-So, in the morning we climbed up to the gallery, and secured the rope to a large boulder at the top of the climb. Leopard was very nice, a typical phreatic tube, with formations resembling the spots of a leopard on its walls, and also with a fairly good draught (I am always keen on following the wind). At the other end, a dark muddy pitch-head waited us, with a good number of scary, loose boulders around it. We again noticed that Gardeners' World is so aptly named, and started to clean up the place. We could not remove the largest rock, tilted against the wall, so decided to go underneath it. We were not quite sure that it is going to stay, but it is still there, after hundreds of cavers have passed beneath... 
+So, in the morning we climbed up to the gallery, and secured the rope to a large boulder at the top of the climb. *Leopard* was very nice, a typical phreatic tube, with formations resembling the spots of a *leopard* on its walls, and also with a fairly good draught (I am always keen on following the wind). At the other end, a dark muddy pitch-head waited us, with a good number of scary, loose boulders around it. We again noticed that Gardeners' World is so aptly named, and started to clean up the place. We could not remove the largest rock, tilted against the wall, so decided to go underneath it. We were not quite sure that it is going to stay, but it is still there, after hundreds of cavers have passed beneath... 
 
-I took the nice 9 mm rope that we packed, secured the end around a big boulder in the passage, and started the descent. The slope was terrible, completely muddy and also full of loose material. Luckily, I managed to put in a bolt in a piece of bedrock on the right side that popped out from the debris. Then, descending through the narrow window, a large chamber opened up beneath my legs. It was absolutely terrible. Everything I touched fell down instantly, starting a small avalanche of loose rocks. I managed to put in one deviation, and then, after many failed efforts to put in a rebelay, I finally descended down to the bottom of the chamber, where, to my amusement, I saw some little stalactites, and great passages starting off. I cleared off from the bottom off the pit, and Andy followed very carefully. When he reached the bottom, he asked me in his typical sarcastic style, if I knew that a rub-point can cut a 9 mm rope already during only one descent. Well, sure, but it already survived two, so no problem! - I replied. We built a cairn at the bottom for easier surveying, but no traces of it remain now. The pitch caused quite a trouble for a long time – due to its  unforeseeable nature, it later got the name “Cheetah”. Finally, after some years' time of usage, it seems to stabilize, at least let's hope so...
+I took the nice 9 mm rope that we packed, secured the end around a big boulder in the passage, and started the descent. The slope was terrible, completely muddy and also full of loose material. Luckily, I managed to put in a bolt in a piece of bedrock on the right side that popped out from the debris. Then, descending through the narrow window, a large chamber opened up beneath my legs. 
 
-So, we started to discover the big passages that laid ahead. Little did we know about the many kilometres hidden behind them, but we felt that we got into something different, something very old, and it was very exciting. Andy recalled that he had found a lot of large vertical pitches, despite the fact that he hates big pitches – so finally, he was eager to find something horizontal! First, we went to the large passage that opened towards the right. We followed it for about 200 meters, with small drops, and we finally reached a bigger drop that lead to a chamber filled with rocks. Unfortunately, our rope was too short (although we even made use of the chords of our tackle-sacs), so we could not descend there. Mirroring our surprise, we named this part Wonderland, and went back to the first pitch. Starting in the other direction, I put in a small traverse line with its middle belay at a small waterfall, and reaching the other end, we saw that Andy's dream finally became true – we found a true horizontal passage, whose ceiling was covered with small crystals! (Since then, experience showed that these are typical wind crystals, indicating the way of strong draught – and here, indicating the way towards the Connection, although that is a different story...) Hurrah! We followed the passage eagerly, and we were even more amazed when it opened up to a junction. A flat-out crawl lead to a nice little chamber, whose ceiling was full of little crystals. On the left, we also found a pretty water inlet, filled with white sand. Underneath the main passage, we also climbed down to some openings where water could be heard in the distance, perhaps 40 m below us. Finally, we reached the place which seemed to be the termination of the passage - a boulder choke. Hmm. We soon managed find a way upwards, and when popping out at the top, we suddenly found ourselves in a big void! Wow! A big chamber! With a waterfall! And a window! And another window! And an obvious continuation of the phreatic! Andy asked if I knew of Exhibition Road in the system, and that this was similar to that, so we decided to name it Prince Consort Road (later, quite aptly, it got renamed as *Albert Hall*). By that time, it was quite late, and we had to start back to survey, but we did it happily. Finally, quite broken, we prussiked up on the very dubious 9 mm rope, took it up so that no other person repeates the same insanity, and walked back triumphantly to X-Ray. 
+It was absolutely terrible. Everything I touched fell down instantly, starting a small avalanche of loose rocks. I managed to put in one deviation, and then, after many failed efforts to put in a rebelay, I finally descended down to the bottom of the chamber, where, to my amusement, I saw some little stalactites, and great passages starting off. I cleared off from the bottom off the pit, and Andy followed very carefully. When he reached the bottom, he asked me in his typical sarcastic style, if I knew that a rub-point can cut a 9 mm rope already during only one descent. Well, sure, but it already survived two, so no problem! - I replied. 
 
-Andy's words in the logbook express the essence of the day: “AJ and GA turned one crappy lead (Leopard) into lots of great leads”. That's what perfect cave exploration should be, isn't it? Well, our luck has proved to be good, once again...
+We built a cairn at the bottom for easier surveying, but no traces of it remain now. The pitch caused quite a trouble for a long time – due to its  unforeseeable nature, it later got the name “*Cheetah*”. Finally, after some years' time of usage, it seems to stabilize, at least let's hope so...
+
+So, we started to discover the big passages that laid ahead. Little did we know about the many kilometres hidden behind them, but we felt that we got into something different, something very old, and it was very exciting. Andy recalled that he had found a lot of large vertical pitches, despite the fact that he hates big pitches – so finally, he was eager to find something horizontal! 
+
+First, we went to the large passage that opened towards the right. We followed it for about 200 meters, with small drops, and we finally reached a bigger drop that lead to a chamber filled with rocks. Unfortunately, our rope was too short (although we even made use of the chords of our tackle-sacs), so we could not descend there. Mirroring our surprise, we named this part *Wonderland*, and went back to the first pitch. 
+
+Starting in the other direction, I put in a small traverse line with its middle belay at a small waterfall, and reaching the other end, we saw that Andy's dream finally became true – we found a true horizontal passage, whose ceiling was covered with small crystals! (Since then, experience showed that these are typical wind crystals, indicating the way of strong draught – and here, indicating the way towards the Connection, although that is a different story...) Hurrah! We followed the passage eagerly, and we were even more amazed when it opened up to a junction. A flat-out crawl lead to a nice little chamber, whose ceiling was full of little crystals. On the left, we also found a pretty water inlet, filled with white sand. Underneath the main passage, we also climbed down to some openings where water could be heard in the distance, perhaps 40 m below us. 
+
+Finally, we reached the place which seemed to be the termination of the passage - a boulder choke. Hmm. We soon managed find a way upwards, and when popping out at the top, we suddenly found ourselves in a big void! Wow! A big chamber! With a waterfall! And a window! And another window! And an obvious continuation of the phreatic! 
+
+Andy asked if I knew of *Exhibition Road* in the system, and that this was similar to that, so we decided to name it *Prince Consort Road* (later, quite aptly, it got renamed as *Albert Hall*). By that time, it was quite late, and we had to start back to survey, but we did it happily. Finally, quite broken, we prussiked up on the very dubious 9 mm rope, took it up so that no other person repeates the same insanity, and walked back triumphantly to *X-Ray*. 
+
+Andy's words in the logbook express the essence of the day: “AJ and GA turned one crappy lead (*Leopard*) into lots of great leads”. That's what perfect cave exploration should be, isn't it? Well, our luck has proved to be good, once again...
 
 \attrib{Gergely Ambrus}
 
@@ -419,7 +431,6 @@ By this point we realise it's super late and we are almost certainly going to mi
 Time has gone in a blur, we are probably not 100% there mentally to be honest. 
 Still might as well survey out. 
 
-
 The way out is not very remarkable. 
 We bump into Tetley at the top of *Big Rock Candy Mountain*. 
 He is not too worried, but apparently Gergely was hoping we were crumpled up in a heap somewhere so he could come and rescue us.
@@ -440,10 +451,10 @@ The passage is small and bends under the main route.
 It is wet and rather grotty. 
 We drop a pitch or two of utter horror and eventually turn around. 
 Surveying out is awful. 
-The book gets wet, my fingers are too cold to hold the instruments\footnote{The survey data had to be 'corrected' to avoid the survey self-intersecting due to backwards legs.}. 
+The book gets wet, my fingers are too cold to hold the instruments\sidenote{The survey data had to be 'corrected' to avoid the survey self-intersecting due to backwards legs.}. 
 It sucks majorly. 
 At least the passage gets a cool name: *Esoterica*. 
-O, and no-one has pushed the pitch where we stopped! \footnote{*Esoterica* was not revisited until 2012, where a broken bolting driving prevented any additional pitches being descended. 
+O, and no-one has pushed the pitch where we stopped! \sidenote{\emph{Esoterica} was not revisited until 2012, where a broken bolting driving prevented any additional pitches being descended. 
 It remains a lead.}
 
 \attrib{James Kirkpatrick}
@@ -470,7 +481,7 @@ Subsequent email exchanges on the subject do seem a bit vague as to exactly what
 
 On the way back from this little trip, after grabbing some stashed karrimats from the old camp, that the black black hole across *Big Rock Candy Mountain* was noticed.
 
-The next day, James and I went to the new stuff below Leopard/Cheetah, but since we were doing a push-then-out trip, rather than going to the far end of the 'half' where most of the action was, we went in the other direction from the pitch bottom to do some work relatively close to camp, carrying on where Gergely+???? had left off at the Hidden Surprise pitch.
+The next day, James and I went to the new stuff below *Leopard*/*Cheetah*, but since we were doing a push-then-out trip, rather than going to the far end of the 'half' where most of the action was, we went in the other direction from the pitch bottom to do some work relatively close to camp, carrying on where Gergely+???? had left off at the *Hidden Surprise* pitch.
 
 Gergely had dropped the first section of the pitch to an obvious ledge and followed the ledge to horizontal passage that soon died. 
 James and I were to descend the shaft from the ledge, but it immediately became clear the drill wasn't working and so we had to resort to spits, with James bolting while I waited on the ledge.
@@ -500,43 +511,45 @@ On returning to our entry point, we looked the other way, wondered how far the d
 
 We hadn't found a great deal of length, but on the other hand, we had left a decent going lead, and due to the combination of a misbehaving drill making waiting cold and dull work and the luck of my breath showing there was something worth looking at, had ended up finding quite interesting passage in what must be one of the most unlikely of situations.
 
-Thinking partly of the initial nervousness with which I had slowly posted myself between the boulders and the wall, but mainly of the immense luck we had had with the draught, Kamikaze seemed like the obvious choice of name for the discovery.
+Thinking partly of the initial nervousness with which I had slowly posted myself between the boulders and the wall, but mainly of the immense luck we had had with the draught, *Kamikaze* seemed like the obvious choice of name for the discovery.
 
 \attrib{Dave Wilson}
 
 Last year we manage to connect Captain K. with lower parts of *Vrtnarija* (*Friendship Gallery*), so I could not wait to go caving again, especially to first descent the whole *Pico*. 
 
-Dan and I decided to go camping in X-ray, which was after re-established after many years.
+Dan and I decided to go camping in *X-Ray*, which was after re-established after many years.
 
-We were on the night train. So the plan was to go caving late at night, reach the camp in the morning and then go straight to bed. When we reached the camp we find a note, asking if we could wait a bit longer, because the other team return late. We decided to go and check out the newly discovered parts and maybe find some leads for tomorrow. When we return to X-ray we meet our tent mates Gergely and Niko, who just return from their caving trip. We prepared some food, change to dry clothes and went into sleeping bags, while others started preparing for caving. It was funny to watch how they were not happy to put on wet caving clothes.
+We were on the night train. So the plan was to go caving late at night, reach the camp in the morning and then go straight to bed. When we reached the camp we find a note, asking if we could wait a bit longer, because the other team return late. We decided to go and check out the newly discovered parts and maybe find some leads for tomorrow. When we return to *X-Ray* we meet our tent mates Gergely and Niko, who just return from their caving trip. We prepared some food, change to dry clothes and went into sleeping bags, while others started preparing for caving. It was funny to watch how they were not happy to put on wet caving clothes.
 
 \attrib{\izi}
 
 ## Palace of king Minos, Queen Bed chamber, Minotaur rift and Ouroboros
 
-We were woken up by Jarv and Jan who just return from their pushing trip. While cursing wet clothes we discussed what they find and what is worth to go and push. Soon we took off and separated on the bottom of Cheetah. Gergley and Niko went down Wonderland, Dan and I went to Prince Consort Road. Road lead us to *Albert hall* where not long ago Jarv and Jan were pushing Serpentine. We decided to push some new leads, so we climbed higher in this chamber and from there we saw a big gallery. To reach this gallery we needed to climb about 6 m high. Dan gave me a push up and I was able to reach the top. There I secured the rope around the bolder and Dan joined me. From there we made a traverse and then entered the gallery. Already on the entrance we noticed something amazing. The ceiling was covered with white crystals, that we never accounted before. That meant this is an old phreatic gallery and we were so lucky to be the first one to discover it. Also the soil on the ground was brown on top and once we stepped on it, it was white underneath. Our first steps left white trails of footsteps behind, truly amazing. We were really careful with our steps, as we did not want to make to much damage. We mainly stick to the main passage and there were no pitches or tight squeezes, perfect for exploring. On the end of this gallery we were stopped by an aven. We could not climb it, so we decided to return and start surveying back. On the way back we took another side passage which lead us back to *Albert hall*. Because we made a loop and the hole place look like a maze, we name it Palace of King Minos, the side passage was named Ouroboros, cuz it was a loop to *Albert hall* and also we named the big rift Minotaur. We left one side passage for next time, because we were already tired. Surveying this gallery was a pure joy. Long distanced between stations, minimum of 10 m. Both of us were extremely happy with our discovery and so we return to X-ray for well deserved rest. In the camp we meet the other team and also they find some new meters. We exchange our trip experience and fall a sleep.
+We were woken up by Jarv and Jan who just return from their pushing trip. While cursing wet clothes we discussed what they had found and what was worth visiting and pushing. Soon we took off and separated on the bottom of *Cheetah*. 
 
-When we woke up, we were surprised by roaring in Zimmer. During the day it was raining outside, therefore a lot of water was purring down Zimmer. Dan and I still have one more night at a camp, but because Niko and Gergely were not feeling to go out in these conditions, we volunteered to do it. Beside, someone had to cancel their call out. So we eat something and start going up to the surface. I was first heading out, but before I fully attached myself on the rope in Zimmer, I was already all wet. I told Dan that I will not wait for him and because we both know the way out, we will see each other on the surface. I was going for about an hour, stopped, roll 2 cigarettes, smoke one, and leave one for Dan and then continue out. Below *Pico*, I repeated the same procedure, so at that time Dan catches me up and we continued together. Above *Pico* it was less water so that meant that the rain has stop. We reached the surface in 3 and half hours. In the bivy we entered the data and we were so happy when we heard that we surveyed more than 500 m, especially how easy was to do it.
+Gergley and Niko went down *Wonderland*, Dan and I went to *Prince Consort Road*. Road lead us to *Albert hall* where not long ago Jarv and Jan were pushing Serpentine. We decided to push some new leads, so we climbed higher in this chamber and from there we saw a big gallery. To reach this gallery we needed to climb about 6 m high. Dan gave me a push up and I was able to reach the top. There I secured the rope around the bolder and Dan joined me. From there we made a traverse and then entered the gallery. Already on the entrance we noticed something amazing. The ceiling was covered with white crystals, that we never accounted before. That meant this is an old phreatic gallery and we were so lucky to be the first one to discover it. Also the soil on the ground was brown on top and once we stepped on it, it was white underneath. Our first steps left white trails of footsteps behind, truly amazing. We were really careful with our steps, as we did not want to make to much damage. We mainly stick to the main passage and there were no pitches or tight squeezes, perfect for exploring. On the end of this gallery we were stopped by an aven. We could not climb it, so we decided to return and start surveying back. On the way back we took another side passage which lead us back to *Albert hall*. Because we made a loop and the hole place look like a maze, we name it Palace of King Minos, the side passage was named Ouroboros, cuz it was a loop to *Albert hall* and also we named the big rift Minotaur. We left one side passage for next time, because we were already tired. Surveying this gallery was a pure joy. Long distanced between stations, minimum of 10 m. Both of us were extremely happy with our discovery and so we return to *X-Ray* for well deserved rest. In the camp we meet the other team and also they find some new meters. We exchange our trip experience and fall a sleep.
+
+When we woke up, we were surprised by roaring in *Zimmer*. During the day it was raining outside, therefore a lot of water was purring down *Zimmer*. Dan and I still have one more night at a camp, but because Niko and Gergely were not feeling to go out in these conditions, we volunteered to do it. Beside, someone had to cancel their call out. So we eat something and start going up to the surface. I was first heading out, but before I fully attached myself on the rope in *Zimmer*, I was already all wet. I told Dan that I will not wait for him and because we both know the way out, we will see each other on the surface. I was going for about an hour, stopped, roll 2 cigarettes, smoke one, and leave one for Dan and then continue out. Below *Pico*, I repeated the same procedure, so at that time Dan catches me up and we continued together. Above *Pico* it was less water so that meant that the rain has stop. We reached the surface in 3 and half hours. In the bivy we entered the data and we were so happy when we heard that we surveyed more than 500 m, especially how easy was to do it.
 
 \attrib{\izi}
 
-## Hidden surprises 
+## *Hidden Surprise* 
 
-Well, the name *Wonderland* does not really exist anymore, but back then this was used for the horizontal level at the bottom of Leopard. Once finishing our triumphant trip with Andy, I was eager to get back to continue the exploration of the many passages that lay below. So, we paired up with Niko, to form a truly Eastern European team, and went back to do what we had to do – rig the drop at the end of the *Wonderland* passage!
+Well, the name *Wonderland* does not really exist anymore, but back then this was used for the horizontal level at the bottom of *Leopard*. Once finishing our triumphant trip with Andy, I was eager to get back to continue the exploration of the many passages that lay below. So, we paired up with Niko, to form a truly Eastern European team, and went back to do what we had to do – rig the drop at the end of the *Wonderland* passage!
 
-Izi and Dan went to the other end, to find the continuation from the big chamber (*Albert Hall*). With Niko, we improved some of the rigging that we did with Andy, and then dropped to the chamber with loose boulders. Unfortunately, the rope that I used was new, and it shrunk considerably later, so those rebelays have been too tight ever since. Within the chamber, we climbed down to the obvious continuation, to find to our horror an incredibly loose pitch within a pile of incredibly loose boulders – so we agreed that this was not the best option, if we still want to do something else with our lives. Nevertheless, this experience provided us with a good name – Rolling Stones! So, there we were, in a nice big chamber, with a suicidal way onwards, and we were not quite keen enough to continue that way… We had a look here and there, to no avail, and were about to turn back, when Niko climbed in between some rocks, and said in his usual slow manner – “Heey maan, maybe this is the right waay, nooo?” And indeed it was! Following the draught, we soon managed to open up a small passage, which lead to a flat-out crawl, but after some 20 m it again popped in to another chamber, quite nicely decorated. Hidden surprise! That was the name we chose. The way on was obvious, and soon we emerged at the top of a large black void space. This was a good point to turn back, so we surveyed everything and showed it proudly to the happily emerging pair of Izi and Dan. Then we returned to camp together, shared a nice meal, talked about our stories, and had a nice evening, as usual at Camp X-Ray.
+Izi and Dan went to the other end, to find the continuation from the big chamber (*Albert Hall*). With Niko, we improved some of the rigging that we did with Andy, and then dropped to the chamber with loose boulders. Unfortunately, the rope that I used was new, and it shrunk considerably later, so those rebelays have been too tight ever since. Within the chamber, we climbed down to the obvious continuation, to find to our horror an incredibly loose pitch within a pile of incredibly loose boulders – so we agreed that this was not the best option, if we still want to do something else with our lives. Nevertheless, this experience provided us with a good name – *Rolling Stones*! So, there we were, in a nice big chamber, with a suicidal way onwards, and we were not quite keen enough to continue that way… We had a look here and there, to no avail, and were about to turn back, when Niko climbed in between some rocks, and said in his usual slow manner – “Heey maan, maybe this is the right waay, nooo?” And indeed it was! Following the draught, we soon managed to open up a small passage, which lead to a flat-out crawl, but after some 20 m it again popped in to another chamber, quite nicely decorated. *Hidden Surprise*! That was the name we chose. The way on was obvious, and soon we emerged at the top of a large black void space. This was a good point to turn back, so we surveyed everything and showed it proudly to the happily emerging pair of Izi and Dan. Then we returned to camp together, shared a nice meal, talked about our stories, and had a nice evening, as usual at Camp *X-Ray*.
 
-Next day, we went back with Niko to the top of the pitch. Two ways were at the offer: either down to the black, or across to the seemingly obvious continuation of the phreatic tube. I was quite scared of going down, so we chose the more safe option of doing the traverse. Niko put in his first ever bolt at the Milka rock (which resembles a cow), and then we slowly proceeded, given that the whole thing was done by hand bolts. Finally I climbed up the slope on the other side (quite a scary experience), and we were there at the start of kilometres of a wide, walking phreatic passage! At least, we believed so. This expectation proved to be immediately wrong, when after 15 m, we had to take off our SRT kit in order to pass a squeeze. Never mind, we thought, the walking passage  is just on the other side! Well, not quite… the ceiling got lower and lower, and we really had to fight to advance about 50 m. There, the passage became really low, so we decided to try to survey back. It has been a gymnastic feast, not only small and low, but also super uncomfortable because of the dry, fossilized mud formations that filled the floor completely. Niko was super happy to be there – the afternoon was mostly passed by his constant “Noo, maan” moaning… The mud formations are indeed very nice, maybe they should be scientifically investigated. Anyway, they gave the place a name – Mudstone Squeeze and Mudstone Traverse were what we surveyed that day. To this date, nobody has been back to Mudstone squeeze – although it is quite a place to go, if you happen to have some free time and want to exercise your squeezing and crawling skills! ☺
+Next day, we went back with Niko to the top of the pitch. Two ways were at the offer: either down to the black, or across to the seemingly obvious continuation of the phreatic tube. I was quite scared of going down, so we chose the more safe option of doing the traverse. Niko put in his first ever bolt at the Milka rock (which resembles a cow), and then we slowly proceeded, given that the whole thing was done by hand bolts. Finally I climbed up the slope on the other side (quite a scary experience), and we were there at the start of kilometres of a wide, walking phreatic passage! At least, we believed so. This expectation proved to be immediately wrong, when after 15 m, we had to take off our SRT kit in order to pass a squeeze. Never mind, we thought, the walking passage  is just on the other side! Well, not quite… the ceiling got lower and lower, and we really had to fight to advance about 50 m. There, the passage became really low, so we decided to try to survey back. It has been a gymnastic feast, not only small and low, but also super uncomfortable because of the dry, fossilized mud formations that filled the floor completely. Niko was super happy to be there – the afternoon was mostly passed by his constant “Noo, maan” moaning… The mud formations are indeed very nice, maybe they should be scientifically investigated. Anyway, they gave the place a name – Mudstone Squeeze and *Mudstone Traverse* were what we surveyed that day. To this date, nobody has been back to Mudstone squeeze – although it is quite a place to go, if you happen to have some free time and want to exercise your squeezing and crawling skills! ☺
 
-Back at the camp, we heard the great news: Izi and Dan just found 600 m of passage at the Palace of King Minos! We were about to exit the cave the next morning, but there apparently had been a great storm, making Zimmer impassable for a good 20 hours. So we got the opportunity to have a tourist trip to King Minos Palace, and we did very well to use it- and absolutely amazing bit of cave! After another night at camp, we finally started to the surface after 4 days underground, but we were certain to return to the plethora of exciting leads…
+Back at the camp, we heard the great news: Izi and Dan just found 600 m of passage at the Palace of King Minos! We were about to exit the cave the next morning, but there apparently had been a great storm, making *Zimmer* impassable for a good 20 hours. So we got the opportunity to have a tourist trip to King Minos Palace, and we did very well to use it- and absolutely amazing bit of cave! After another night at camp, we finally started to the surface after 4 days underground, but we were certain to return to the plethora of exciting leads…
 
 \attrib{Gergely Ambrus}
 
 ## Discovering Povodni Mož
 
-After couple of days on the surface, I decided to do some camping with my Slovenian mates. Tjaša, Erik, Mawer and I started to walk towards the entrance around 2 am. We reached the camp too early for our bed time, so we decided to go and check out the crystals. After that we still have some spear time so we decided to go and try digging in Minotaur rift, where last time with Dan we could here big roaring of water. After couple of hours moving boulders with no luck, we returned to camp.
+After couple of days on the surface, I decided to do some camping with my Slovenian mates. Tjaša, Erik, Mawer and I started to walk towards the entrance of *Vrtnarija* at around 2 am. We reached the camp too early for our bed time \sidenote{On the Night Train, the bed time is 8 am to 8 pm}, so we decided to go and check out the crystals in *Palace of King Minos*. After this, we still had time so we decided to go and try digging in *Minotaur Rift*, where last time with Dan we could hear the enticing 'roar' of water. After couple of hours moving boulders with no breakthrough, we returned to camp.
 
-The next day we made a plan to push one lead in Palace of King Minos, that we didn’t push with Dan. The entrance was quite narrow, but soon we arrived to a series of pitches with water. We had enough of rope to bolt 2 pitches and decided to name it Povodni mož, cuz we followed the water all the time.
+The next day we planned to investigate one lead in *Palace of King Minos*, that we had not yet pushed with Dan. The entrance to the lead was quite narrow, but beyond it we reached a series of active water pitches. We had enough rope to bolt two drops and decided to name the passage *Povodni mož* \sidenote{Water nymph}, as we had been following the water all the time. 
 
 \attrib{\izi}
 
@@ -544,7 +557,7 @@ The next day we made a plan to push one lead in Palace of King Minos, that we di
 
 The JSPDT organised a trip based at the mountain hut at Kal on 2nd October
 2010. 
-The terminal rift was enlarged to gain a $\approx$ 20 m pitch and a
+The terminal rift was enlarged to gain a \textasciitilde 20 m pitch and a
 larger, undescened (due to lack of rope), pitch. 
 
 
@@ -603,7 +616,7 @@ the plateau.
 
 Our current hypothesis is that there is no \textit{master system} gathering the water,
 but instead a complex hydrology induced by cave passage intersecting the
-underlying (as yet, unvisited) band of Cretaceous shales.
+underlying (as yet, unvisited) band of Cretaceous shales. \sidenote{The Migovec limestones are either underlain by these shales}
 
 For all *Vrtnarija*'s complexity, the entire cave can be fitted into
 a slab of limestone slanted at 66 degrees and just $1000\times150\times1000$ m.
@@ -613,43 +626,42 @@ shattered and heavily cratered surface, there will be enough cave in Migovec
 for decades more of exploration.
 
 
-## Underground Logbook	 	 	
-
-Found in 'AggregateofMig2007-2010.doc' : Jarv Typed up?
+## Underground Logbook 
+\sidenote{Found in 'AggregateofMig2007-2010.doc' : Jarv Typed up?}
 
 \logentry{Setting up Camp \emph{X-Ray}}{
-After about 6 hours of caving, finally made it down. 
-Met Gergely and James on he way down as they were leaving the cave. 
-Last bolt before camp is horrible = needs rebolting / rerigging. 
+After about 6 hours of caving in \emph{Vrtnarija}, we finally made it down. 
+We met Gergely and James on the way down just as they were exiting the cave. The last bolt on \emph{Zimmer} before camp is horrible: it needs rebolting and rerigging. 
 15 cm lower would be awesome. 
-Built a tent at the camp. 
-Required some stone movement. 
-Mike got water, me and Jarv built tent, kate = smoking. 
-NEED WEED! Should have thought about it before. 
-Listening to Massive Attack and getting Raptured. 
-Oh yeah! Kate setting up sleeping space, Jarv went to get more water.
 
-Camp is getting established, looking forward to Worms World Party. 
-Mike = Cooking. 
+We set up the tent at the camp, which required some stone movement. 
+Mike got water from nearby \emph{Zimmer} and Jarv and I built up the tent, while Kate was smoking. 
+NEED WEED! We should have thought about it beforehand. 
+Now listening to Massive Attack and getting Raptured. Oh yeah! 
+
+Kate is now setting up sleeping space, while Jarv is away to get more water.
+
+Camp is slowly getting established, we're now looking forward to Worms World Party. 
+Mike is cooking. 
 Weed is really a missing resource. 
 So far so good. 
-About 5 metres from camp is a hole with water in it = able to hear, quickly got established as peeing corner , hope its not a lead... 
+About 5 metres from camp is a hole with audible rush of water in it. This quickly got established as peeing corner, hoping it's not a lead... 
 \attrib{Nick}
 }
 
-\marginnote{The fast increasing smell of urea put a stop to this practice, and instead a BDH container emptied in Zimmer was used.}
+\marginnote{The fast increasing smell of urea put a stop to this practice, and instead a BDH container emptied in *Zimmer* was used.}
 
 23/7/10
 Nice snooze - super warm. 
 Nicola snored like a trooper - just a few minutes into the classic Black Adder session. 
 Broken sleep - particularly as Nicola got up for X2 piss. 
-Awoken @ 10:30AM by the beasts crawling up towards our pits.
+Awoken at 10.30 am by the beasts crawling up towards our pits.
 Tetley & Myles rustled up some hot-choc then wandered off down the continuing passage.
 
 23.7.10 - 2:10pm MD + Tetley
-Entered Gardener's World ~6:20am. 
-Made our way through, re-rigged zimmer on the way. 
-Arrived at camp at 10:30am + awakened JV, Mike, Kate + Niko.
+Entered Gardener's World \textasciitilde 6.20 am. 
+Made our way through, re-rigged *Zimmer* on the way. 
+Arrived at camp at 10:30am + awakened Jarv, Mike, Kate and Niko.
 
 Wandered around *Friendship Gallery* for hour or two. 
 Found nice lead, will investigate later. 
@@ -657,18 +669,18 @@ Sleep now.
 
 23-7 2:20pm
 
-It's good to be back in a sleeping bag at Camp X-Ray - seven years since the last camp here. 
+It's good to be back in a sleeping bag at Camp *X-Ray* - seven years since the last camp here. 
 It's very comfy. 
 I like the tent - some things don't change though, Blackadder on the sound system, smash + tuna etc. 
 Hopefully we'll get some good pushing in tomorrow! Tetley
 
 23-7 6:20pm
-James and Dan arrive for a quick visit before heading off to push the muddy window
+James and Dan arrive for a quick visit before heading off to push the *muddy window*
 8:20pm Andy + Gergely arrive - I ignore them! Tet
 
 23-7 10:30pm
 Fucking body won't fall asleep! Must have only had couple of hours at most since Dan arrived... 
-Gergei + Andy turned up at 8ish + now, they have checked our Leopard a little.
+Gergei + Andy turned up at 8ish + now, they have checked our *Leopard* a little.
 Tetley's bodily functions are out of control! May bring some corks down for his digestive tract next time.
 Anyway, now for some food + tea + hopefully can stay awake till bedtime at noon! Myles.
 
@@ -678,12 +690,12 @@ Fine food! (Ed: Believe this was Tetley)
 
 24-7 12:20
 Breakfast with Tet & Miles. 
-Dan & I will visit the lead we killed yesterday (Muddy Window) & survey it, then to *Red Cow*. 
+Dan & I will visit the lead we killed yesterday (*Muddy Window*) & survey it, then to *Red Cow*. 
 James K
 
 24-7 1:30pm MD
 Back in Camp for 2nd night. 
-Pushed Tolminka today, good lead, surveyed ~8am. 
+Pushed Tolminka today, good lead, surveyed \textasciitilde 8am. 
 Some nice pitches. 
 Covered in mud. 
 Listening to strange foreign music.
@@ -693,13 +705,13 @@ Great push down Korita today - 8 bolts, surveying etc.
 IT'S GOING GOING GOING... 
 GO THERE!
 (But try and avoid rigging future pitches in or near the water...)
-Andy + Gergely have left to push Leopard - James + Dan to survey Muddy Window and then go for a jolly below *Big Rock Candy Mountain*. 
+Andy + Gergely have left to push *Leopard* - James + Dan to survey *Muddy Window* and then go for a jolly below *Big Rock Candy Mountain*. 
 I've had a great day - thanks Myles. 
 Time for a decent seep. 
 Tet
 
 23:20 24/7/2010
-James + Dan return on a high! 9hrs good kip in bed - I feel good! forgot to say I had a shit yesterday.... 
+James + Dan return on a high! 9 hrs good kip in bed - I feel good! forgot to say I had a shit yesterday.... 
 Tet
 
 

@@ -3,11 +3,11 @@
 ## Introduction
 
 The main focus of the Votla Gora 2008 Expedition to the Tolminski Migovec plateau, Western Slovenia, was the connection of Sistem Migovec (11493 m - 5$^{th}$ longest in Slovenia) with *Vrtnarija* (5229 m - 11$^{th}$ longest) to make the second longest cave in Slovenia (16722+m). 
-Separation was 28 m on the centre line with many going leads. 
+The separation between the caves was 28 m on the centre line with many going leads. 
 This was not achieved, but 1.2 km of cave passage was found and explored.
 
 The part of Sistem Migovec that we were attempting to connect to was the bottom of *M2*, the original deep cave on Migovec pushed back in the early 1970s by the Slovenian JSPDT. 
-Below the epic Tolminski *Silos* pitch (120 m), the cave shut down into a series of small pitches with extremely tight rift, which had to be exploded open for passage. 
+Below the epic *Tolminski Silos* pitch (P120 m), the cave shut down into a series of small pitches with extremely tight rift, which had to be exploded open for passage. 
 Exploration finished in the 1970s at yet another such rift.
 
 2008 was also the first ICCC Slovenia expedition with a name - 'Votla Gora', meaning 'Hollow Mountain'. 
@@ -32,7 +32,7 @@ For one notable pitch, "*Kill'em All*" which had been rigged for no apparent rea
 This after a section of acrobatic rift below *Kill'em All* (p22), *Dark Tranquillity* (p44) was discovered. 
 The leads were very much ongoing - another pitch, and many windows. 
 There were also entering avens. 
-However, on inputing the survey data (we have a solar-powered laptop running Survex in our mountain top bivy), we discovered that we had dropped well below the bottom of *M2* and therefore our current connection possibilities.
+However, on inputing the survey data (we have a solar-powered laptop running Survex in our mountain top Bivi), we discovered that we had dropped well below the bottom of *M2* and therefore our current connection possibilities.
 
 As such, attention shifted to higher leads to try and secure a connection in 2008. 
 From the "Something Fishy" chamber a series of pitches were explored which included the impressive *Dangermouse* (p52). 
@@ -165,12 +165,15 @@ Shortly after arriving to the plateau, I found myself getting ready for a trip.
 Not only a trip, in the ordinary sense, but a real Exploration Trip, with a goal none less than trying to remove the large boulder blocking the tight rift at the bottom of *M2*. 
 I was chosen to be the lucky one who accompanies the Living Legend of Tolmin cavers. 
 Soon I found myself holding a nice yellow tacklesack, with the instruction of “be gentle with it”. 
+
 And this was not without reason. 
 In the bag there was to be found an original memento of the great war, a product of the ever famous factory in Glasgow, dated to 1937. 
  A well educated friend of mine pointed out later, that products bearing the name of a prestigious prize become highly unstable in a period of cca 50 years, but little of this reassuring fact had I known back then. 
 Instead, I took the tacklesack happily and we started our vigilant journey towards the centre of the globe. 
+
 It soon became evident that the only way for being faster than my master would be to use gravity directly, without the unnecessary complication given by ropes, re-belays and so on. 
 The main obstruction was a nasty wedging squeeze somewhere, which proved to be even worse on the way out. 
+
 Finally, we reached the bottom, set up our magical set, murmured a couple of magic spells, and then woops, the boulder evaporated as if it had never been there! Indeed, it does help in exploration to read Harry Potter after all. 
 We started to chisel our way further, but the rift got even narrower after a couple of meters, so we had to give up and started prussiking up. 
 Again, my companion was nowhere to be seen until  I emerged completely exhausted at the bottom of *Silos* – where he waited half asleep, and noted that he is indeed quite cold. 
@@ -185,20 +188,24 @@ This was my first battle with Migovec, and so to say, I got completely addicted 
 It was one of the last pushing trips on the expo. 
 Once again, we decided to go down to the unpassable rift at the bottom of *M2* in order to find the Connection. 
 This time, for sure, it was going to happen! Paul seemed to be as eager as I was, so we teamed up. 
+
 At the same time, another party (Jarvist and Dan) was to go down to the “other side” of the rift, to hear our voices and then to shake hands, for sure. 
 So we slowly worked our way down the many tight squeezes below *Silos*, and arrived at the – by then, familiar – small and cosy chamber. 
 From here, the hammer and the chisel played the main role in our drama, or at least we thought so. 
+
 It was not until a couple of hours later that we noticed that instead of the usual sound of water dripping into the pool, a steady, loud, constant noise is coming from the chamber. 
 Squeezing back, we nervously looked at the stream of water dropping into the pool. 
 Time to head out, as quick as possible! We threw some small flakes of the chocolate tinfoil to the stream in order to find it on the other side, hastily packed up, and started our way up, which turned out to be an ordeal. 
 I wore a normal textile oversuit, which proved to be perfect for the cold water to directly run through, but Paul did not feel much better in his Meander either. 
 The cave suddenly became like a wet Yorkshire cave, and soon we were completely soaked in the icy water. 
+
 The flow became bigger and bigger, and our only hope was that from the top of *Silos*, the way should be dry, as we have never seen water there. 
 Yet, once reaching the top, completely cold, exhausted, shivering, we had the worst sight in front of us: a 40 m high waterfall, the rope hopelessly dangling in the middle, with the majestic and frightening sound of water as it splashes at the rocks after its long freefall. 
 At this point, there was no choice left: being as cold as we were, the survival bags would have been almost useless, and the water level seemed to rising, indicating that it is still raining on the surface, so did we decide to wait, it would have been at least half a day, resulting in hypothermia almost surely. 
 We ate the last bits of chocolate we had, jumped, rubbed our arms to get some blood going, looked up into to dark, trying to estimate what is awaiting us. 
 Neither of us was sure that we were going to make it. 
 There was a ledge midway out of the water, so planned to go up there in one go, and the continue. 
+
 Then, I clipped onto the rope. 
 The jammers were in place, everything sorted out, feet in the footloop, bag on the back, rope as tight as possible. 
 It was the moment to start. 
@@ -219,18 +226,20 @@ We dragged back to camp in the pouring rain, woke up Tetley, drank a bit of booz
 \attrib{Gergely Ambrus}
 
 ## Trying to climb into *M2*. 
-Incompetence, bravery and no luck.
 
-Our main aim in 2008 was to discover the connection between *M2* and Gardener's World, a feat which would heap honor on the shoulders of who discovered it. 
-2008 was my first year of caving in Slovenia and I was Very Keen. 
+\begin{quote} Incompetence, bravery and no luck. \end{quote}
+
+Our main aim in 2008 was to discover the connection between *M2* and *Gardeners' World*, a feat which would heap honor on the shoulders of who discovered it. 
+2008 was my first year of caving in Slovenia and I was \textit{very keen}. 
 I dreamed of my shoulders baring the honor of the great discovery and did all I possibly could to be on the right trip at the right time. 
-I took part in a few of the rigging trips down *M2* and was amazed by alpine caving on Migovec: the huge huge pitches, the dry nature of the caving, could not wait for more “pushing”. 
-At the time, the bivi rumour machine had determined the most likely way to find the connection was to explore the area around *Kill'em All* in *Captain Kangaroo*. 
+I took part in a few of the rigging trips down *M2* and was amazed by alpine caving on Migovec: the truly huge pitches, the dry nature of the caving, could not wait for more “pushing”. 
+At the time, the Bivi rumour machine had determined the most likely way to find the connection was to explore the area around *Kill'em All* in *Captain Kangaroo*. 
 This side branch of *Vrtnarija* had been pushed the previous year by Rik and was infamous: uncharacteristically tight and twatty, rigged sparsely and badly, a total nightmare.
 
-My first pushing trip in Cpt Kangaroo was with Clewin. 
-The deeper you get into Captain K the more ridiculous the rigging was, with plenty of dodgy climbs waiting to dislocate your shoulder or break your ankle. 
+My first pushing trip in *Captain Kangaroo* was with Clewin. 
+The deeper you get into *Captain Kangaroo* the more ridiculous the rigging was, with plenty of dodgy climbs waiting to dislocate your shoulder or break your ankle. 
 The cherry on the cake was at the time *Kill'em All*, the most insane piece of rigging I have ever been exposed to. 
+
 The pitch head is at the end of a tight rift. 
 The original rigging consisted of a Y-hang in the main shaft, roughly half a meter below the entrance rift. 
 The only way to get on the rope was to clip in and drop on the rope, possibly with a forward roll. 
@@ -281,20 +290,20 @@ Somehow the expedition ends.
 2. I am glad that I had some fun pushing trips. 
 3. I am grateful I did not get hurt, or hurt my caving partners. 
 4. I am proud of having another person trusting me. 
-5. I am now a lot less Keen, know a thing or two about bivi rumours. 
+5. I am now a lot less Keen, know a thing or two about Bivi rumours. 
 But it would take a few more brocken drill carries to make me wizen up electrically!
 
 \attrib{James Kirkpatrick}
 
 ## Discovering Dark Tranquillity
 
-Year was quickly around and I was back on Mig with unfinished business at the bottom of “*Kill'em All*”. There was no Rick on Mig this year, so I teamed up with James KP. A plan was created and soon we were on the way. As traditionally, I smoked one before entering *Vrtnarija*. 
+One year passed quickly and I was back on Mig with unfinished business at the bottom of “*Kill'em All*”. There was no Rick on Migovec this year, so I teamed up with James Kirkpatrick. A plan was made and soon we were on the way. As was my tradition I smoked one before entering *Vrtnarija*. 
 
-Here we go again, couple of pitches, few squeezes and we are on top of Pico. Before entering *Captain Kangaroo* it was time for a second cigarette. This year the squeezes were much easier, as I knew the tricks on how to handle the awkward squeezes. Quite quickly we were on top of “*Kill'em All*” and reached the bottom with no problems. 
+Here we were again, past a couple of pitches and a sprinkling of squeezes and we are at the top of *Pico*. Before entering *Captain Kangaroo* it was time for a second cigarette. This year the squeezes were much easier, as I knew the tricks to handle the awkward constrictions. Rather quickly we arrived at the top of “*Kill'em All*” and reached the bottom with no problems. 
 
-At the bottom we started checking out the leads and soon one was dead. Only one was the way on. After through a small meander we ended up on top of a big pitch. Only one bolt was needed, as there was a really nice natural. James went down first and after about 20 m he reached a ledge. I followed down and we realised pitch goes on. We had to put in another bolt as the rope would rub against the ledge. James started bolting and I had time to look round as the ledge was relatively big. We noticed windows on the side and naturally thought that this could be the way to *M2*. We did not have any climbing equipments, so we had to continue down. Soon we arrived to another pitch. We did not have any more rope, so we had to return back. While surveying we noticed how beautiful the pitch was. We named it *Dark Tranquillity*. 
+There we started checking out the leads and soon one of them was declared dead. Another turned out to be the way on. After short section of small meander, we ended up at the top of a large pitch. Only one bolt was needed, as there was a really nice natural. James went down first and after about 20 m he reached a ledge. I followed down and we realised pitch carried on. We had to put in another bolt as the rope would rub against the ledge. James started bolting and I had time to look round as the ledge was relatively big. We noticed windows on the side and naturally thought that this could be the way to *M2*. We did not have any climbing equipment, so we had to continue downward. Soon we arrived to another pitch. We did not have any more rope with us at the time, so we had to turn back. While surveying we noticed how beautiful the pitch was. We named it *Dark Tranquillity*. 
 
-Once in the bivy, we were given a well deserved dinner and Jarv was already on the mission to enter the data. The bottom of Dark Tranquillity goes towards lower parts of *Vrtnarija* – towards *Friendship Gallery* and it is already to low to connect to *M2*. 
+Once in the Bivi, we were given a well deserved dinner and Jarv was already on the mission to enter the data. The bottom of *Dark Tranquillity* was heading towards deep parts of *Vrtnarija* – towards *Friendship Gallery* in fact - and unfortunately it proved already to be low to connect to *M2*. 
 
 \attrib{\izi}
 
@@ -475,8 +484,7 @@ Drafting _IN_.
 Chamber has fist sized boulders in it. 
 Turns right.
 
-GOING!!!* (* with instr. 
-of destruction)
+GOING!!! ( with instrument of destruction)
 Jarv
 
 ### 26/7/08 - Vilinksa Jama (AKA Tetley's mysterious lead). 
@@ -502,32 +510,34 @@ Water was dripping from a crack in the ceiling, and the rift continued ahead.
 Bozo forged ahead, quickly finding another chamber, filled with a vast two way boulder slope. 
 Up and over choked quickly. 
 Down and under was precarious in the extreme, but Tetley's careful proress under the hanging death and down a short climb yielded the next pitch. 
-A \textasciitilde20 m drop into a large fault controlled chamber. 
+A \textasciitilde 20 m drop into a large fault controlled chamber. 
 With no SRT kit or rope we made our exit, pausing briefly to discuss potential names. 
 We settled on Vilinksa Jama (Veela cave) and returned to the Bivi for Tea & Medals.
 \attrib{DanG}
 
-### 26.07.08 - Andy & Jana → M16 → *Plopzilla* → End of *NCB* (Zebra)
+\logentry{26.07.08  Andy and Jana $\rightarrow$ M16 $\rightarrow$ \emph{Plopzilla} $\rightarrow$ end of \emph{NCB} (\emph{Zebra} passage)}{
 
 10 hour trip. 
 Re-rigged the way down to Gladiators. 
 Also re-rigg a small traverse just after club mig.
 
-Jana had an epic piss on the ledge in the middle of Gladiators.
+Jana had an epic piss on the ledge in the middle of *Gladiators' Traverse*.
 
-We check out *Plopzilla*, but have not taken the rope out.
+We check out \emph{Plopzilla}, but have not taken the rope out.
 
-Checked the end of *NCB. 
+Checked the end of \emph{NCB}. 
 In Zebra, 2 ways on:
-* A small climb down (\textasciitilde6 m) need to be smashed, remove boulders
-* Small, tight crawl cont. 
-up Zebra
+
+1. A small climb down (\textasciitilde6 m) need to be smashed, remove boulders
+2. Small, tight crawl continuing up \emph{Zebra}
 
 Have taken the Gladiator's old rope out.
 Amazing trip!
 \attrib{Jana}
+}
 
 ### 28.07.08  Jana & Jarv → Surface Work
+
 1. Went back to Valley 8 (next one to B9), you can see loads of cave entrances. 
 Check out. 
 But only one goes. 
@@ -560,12 +570,12 @@ Worth going back down again.
 
 \attrib{Jana}
 
-### 30-07-08 Jana, Andy, Janet → Surface Work
+\logentry{30-07-08 Jana, Andy, Janet → Surface Work}{
 
 Jana, Andy and Janet collected the GPS coordinates of all large holes in the area of the Bivi. The checked the 'M'holes (*M1*, *M16*, *M18*, *M4*, *M15*, *M17*, *M19*), and added new entrances, (*A1* to *A4*), all of which are worth a quick 'go down' and 'look'.
 
 Bolting kits needed!
-\attrib{Jana}
+\attrib{Jana}}
 
 ### 29.7.08 - Intravenus de Milo - a diatribe - Clewin
 
@@ -607,14 +617,14 @@ Back in the Bivvy, superb slop and trifle for dessert was really appreciated.
 Shockingly, despite my recounting tales of squalor, four people were eager to go down the next day. 
 Such is the lure of exploration I guess.
 
-\attrib{Clewin}
+\attrib{Clewin Griffiths}
 
 ### 30/31-7-08 Kill'em All, Jarv, Izi, Paul, James
 
 \begin{quote}The problem wasn't so much the rigging was bad, as that there was no rigging at all.
 \end{quote}
 
-\attrib{Jarv}
+\attrib{Jarvist Frost}
 
 (Large multi coloured Grade I of *Mudslump* - *Kill'em All*)
 
@@ -687,7 +697,7 @@ Sped out once, gear stashed.
 He's the greatest! He's Fantastic!\\
 Wherever there is danger he'll be there!
 \end{verse}
-\attrib{*Dangermouse*}
+\attrib{Dangermouse}
 
 With a load of food & bolts, we shot down to Something Fishy & dived down the right crawl. 
 Drafting, with deep sand floor (all spoiled!). 
