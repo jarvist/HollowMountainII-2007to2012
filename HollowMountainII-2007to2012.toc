@@ -127,28 +127,28 @@
 \contentsline {chapter}{2012 --- Sledi Vetra}{129}{chapter*.129}
 \contentsline {section}{Abstract}{129}{section*.130}
 \contentsline {section}{Introduction}{129}{section*.131}
-\contentsline {section}{Winter Action}{130}{section*.132}
-\contentsline {section}{Vrtnarija / M2 (Kavkna Jama)}{131}{section*.133}
-\contentsline {section}{Watership Down}{131}{section*.134}
-\contentsline {section}{Below `Stuck in Paradise'}{131}{section*.135}
-\contentsline {section}{Lost Miles}{132}{section*.136}
-\contentsline {section}{Apollo \& the Milky Way}{132}{section*.137}
-\contentsline {section}{The Throne Room}{133}{section*.138}
-\contentsline {section}{Other Leads}{134}{section*.139}
-\contentsline {subsection}{Xanadu}{134}{subsection*.140}
-\contentsline {subsection}{Yorkshire}{134}{subsection*.141}
-\contentsline {subsection}{Minotaur Rift}{135}{subsection*.142}
-\contentsline {subsection}{Stagger Lee}{135}{subsection*.143}
+\contentsline {section}{Cave Discoveries}{130}{section*.132}
+\contentsline {subsection}{Winter Action}{130}{subsection*.133}
+\contentsline {subsection}{\textsc {Vrtnarija} / \textsc {M2} (\textsc {Kavkna Jama})}{131}{subsection*.134}
+\contentsline {subsection}{\textsc {Watership Down}}{131}{subsection*.135}
+\contentsline {subsection}{Below `\textsc {Stuck in Paradise}'}{131}{subsection*.136}
+\contentsline {subsection}{\textsc {Lost Miles}}{132}{subsection*.137}
+\contentsline {subsection}{\textsc {Apollo} \& the \textsc {Milky Way}}{132}{subsection*.138}
+\contentsline {subsection}{The \textsc {Throne Room}}{133}{subsection*.139}
+\contentsline {subsection}{\textsc {Xanadu}}{134}{subsection*.140}
+\contentsline {subsection}{\textsc {Yorkshire}}{134}{subsection*.141}
+\contentsline {subsection}{\textsc {Minotaur Rift}}{135}{subsection*.142}
+\contentsline {subsection}{\textsc {Stagger Lee}}{135}{subsection*.143}
 \contentsline {section}{Surface Work}{136}{section*.144}
 \contentsline {section}{Contributed stories}{136}{section*.145}
-\contentsline {section}{2012 -- Watership Down \& Hot Pants}{136}{section*.146}
+\contentsline {section}{2012 -- \textsc {Watership Down} \& Hot Pants}{136}{section*.146}
 \contentsline {subsection}{The Day After}{139}{subsection*.147}
 \contentsline {section}{The Piss Bandits and the Undercover Squirrel}{140}{section*.148}
 \contentsline {section}{Diving Dreams}{143}{section*.149}
-\contentsline {section}{Cutting your neck at the Guillotine}{144}{section*.150}
+\contentsline {section}{Cutting your neck at the \textsc {Guillotine}}{144}{section*.150}
 \contentsline {section}{2012 -- Watership Up with Oli}{146}{section*.151}
 \contentsline {subsection}{Day 2}{146}{subsection*.152}
-\contentsline {section}{Sanje za Duso (Dreams for the Soul)}{148}{section*.153}
+\contentsline {section}{\textsc {Sanje za Duso} (\textsc {Dreams for the Soul})}{148}{section*.153}
 \contentsline {section}{Prospect for 2013}{151}{section*.154}
 \contentsline {chapter}{Epilogue}{153}{chapter*.155}
 \contentsline {chapter}{Appendix A --- Expedition Logistics}{155}{chapter*.156}
